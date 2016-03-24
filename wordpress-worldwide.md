@@ -19,6 +19,7 @@
 
 ##Webdesign/UI/UX
 - [SmashingMagazine](http://smashingmag.com/)
+- [Adobe](http://blogs.adobe.com/)
 
 ##Events
 - [TED Blog](http://blog.ted.com/) (wordpress.com VIP)
