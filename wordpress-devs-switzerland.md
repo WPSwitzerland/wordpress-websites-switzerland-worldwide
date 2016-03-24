@@ -4,6 +4,7 @@
 - [Xeit](http://www.xeit.ch/)
 - [Comotive](https://www.comotive.ch/)
 - [required+](http://required.ch/)
+- [miux](http://miux.ch/)
 
 ## Developers
 - [Pascal Birchler](https://pascalbirchler.com/) - [@swissspidy](https://twitter.com/swissspidy)
@@ -14,3 +15,4 @@
 - [Silvan Hagen](http://silvanhagen.com/) - [@neverything](https://twitter.com/neverything)
 - [Ulrich Pogson](http://ulrich.pogson.ch/) - [@grapplerulrich](https://twitter.com/grapplerulrich)
 - [Claudio Schwarz](https://www.claudioschwarz.com/) - [@purzlbaum](https://twitter.com/purzlbaum)
+- [Marc Wieland](http://www.marcwieland.ch/) - [@marcwieland95](https://twitter.com/marcwieland95)
