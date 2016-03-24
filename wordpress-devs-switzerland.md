@@ -2,12 +2,12 @@
 
 ## Agencies
 - [Xeit](http://www.xeit.ch/)
-- [Comotive](http://www.comotive.ch/)
+- [Comotive](https://www.comotive.ch/)
 - [required+](http://required.ch/)
 
 ## Developers
 - [Pascal Birchler](https://pascalbirchler.com/) - [@swissspidy](https://twitter.com/swissspidy)
-- [Michael Sebel](http://sebel.ch) - [@neverything](https://twitter.com/msebel)
+- [Michael Sebel](http://sebel.ch) - [@msebel](https://twitter.com/msebel)
 - [Roger Burkhard](http://rogerburkhard.com/de/)
 - [Claudio Rimann](http://claudiorimann.ch/) - [@pandulu](https://twitter.com/pandulu)
 - [Karin Christen](http://karinchristen.com/) - [@karinchristen](https://twitter.com/karinchristen)
