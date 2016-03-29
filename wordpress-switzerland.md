@@ -18,6 +18,7 @@
 
 ##Education
 - [Juventus Schulen](http://juventus.ch/)
+- [Academia Raetica](http://academiaraetica.ch/)
 
 ##Public (-Administration)
 - [SBB Blog](http://blog.sbb.ch/)
@@ -25,6 +26,9 @@
 - [Cath. church of canton Zurich](http://zh.kath.ch/blog/)
 - [ENSI](http://ensi.ch)
 - [Alertswiss](https://alertswiss.ch/)
+
+##Service provider
+- [Flims Electric](http://www.flimselectric.ch/)
 
 ##Finance
 - [Raiffaisen Panorama Magazin](http://panorama-magazin.ch/)
@@ -35,7 +39,22 @@
 - [Giardino Verde](http://www.giardino-verde.ch/)
 - [Kreaktiv Events](http://www.kreaktiv-events.ch/)
 - [Gmuetliberg](http://www.gmuetliberg.ch/)
+- [Mutten](http://www.mutten.ch/)
 
 ##Public relations / micro sites
 - [NZZ Business Report](http://gb.nzz.ch/)
 - [Homegate InnoLab](http://innolab.homegate.ch/)
+- [Grischa Personal](http://grischapersonal.ch/)
+
+##Jewelry / Watches
+- [Zoppi Juwelier](http://zoppijuwelier.ch/)
+
+##Architecture / Construction
+- [Planix](http://planixteam.ch/)
+- [Donatsch & Partner](http://www.donatsch.ch/)
+- [Terza IFM](http://terzaifm.ch/)
+- [Calanda](http://calanda.ch/)
+- [Bearth & Deplazes](http://bearth-deplazes.ch/)
+
+##Food
+- [Natur Konkret](http://natur-konkret.ch/)
