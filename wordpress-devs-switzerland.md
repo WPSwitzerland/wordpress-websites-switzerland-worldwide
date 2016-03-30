@@ -16,3 +16,4 @@
 - [Ulrich Pogson](http://ulrich.pogson.ch/) - [@grapplerulrich](https://twitter.com/grapplerulrich)
 - [Claudio Schwarz](https://www.claudioschwarz.com/) - [@purzlbaum](https://twitter.com/purzlbaum)
 - [Marc Wieland](http://www.marcwieland.ch/) - [@marcwieland95](https://twitter.com/marcwieland95)
+- [Mark Howells-Mead](https://permanenttourist.ch/topic/wordpress/) - [@mhmli](https://twitter.com/mhmli)
