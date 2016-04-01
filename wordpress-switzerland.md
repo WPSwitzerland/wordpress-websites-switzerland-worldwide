@@ -59,6 +59,9 @@
 - [Stan Wawrinka](http://www.stanwawrinka.com/)
 - [Mobilesport](http://www.mobilesport.ch/)
 
+##Travel
+- [Hotelplan Blog](http://blog.hotelplan.ch/)
+
 ##Tourism
 - [Uetliberg](http://www.uetliberg.ch/)
 - [Uto Kulm](http://www.utokulm.ch/)
