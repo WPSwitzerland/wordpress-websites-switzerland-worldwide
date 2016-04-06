@@ -16,7 +16,7 @@
 - [Fashiongamble](http://www.fashiongamble.net/)
 
 ##Finance
-- [Raiffaisen Panorama Magazin](http://panorama-magazin.ch/)
+- [Raiffeisen Panorama Magazin](http://panorama-magazin.ch/)
 
 ##Food
 - [Natur Konkret](http://natur-konkret.ch/)
