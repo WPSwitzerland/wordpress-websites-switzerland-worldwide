@@ -7,6 +7,10 @@
 - [Calanda](http://calanda.ch/)
 - [Bearth & Deplazes](http://bearth-deplazes.ch/)
 
+##Blog
+- [Sunnechind](http://sunnechind.ch/)
+- [Karrierefrau Schweiz](https://www.karrierefrauschweiz.ch/)
+
 ##Education
 - [Juventus Schulen](http://juventus.ch/)
 - [Academia Raetica](http://academiaraetica.ch/)
@@ -14,12 +18,15 @@
 ##Fashion
 - [The Fashion Fraction](http://www.thefashionfraction.com/)
 - [Fashiongamble](http://www.fashiongamble.net/)
+- [Everydayadress](https://everydayadress.com/)
+- [Thatgirlnamedmaya](http://thatgirlnamedmaya.com/)
 
 ##Finance
 - [Raiffeisen Panorama Magazin](http://panorama-magazin.ch/)
 
 ##Food
 - [Natur Konkret](http://natur-konkret.ch/)
+- [Das Trüffelschwein](http://www.dastrueffelschwein.ch/)
 
 ##Jewelry
 - [Zoppi Juwelier](http://zoppijuwelier.ch/)
@@ -35,6 +42,7 @@
 ## Portfolio
 - [MMXV](https://mmxv.io/)
 - [Claudio Thoma](https://www.claudiothoma.ch/)
+- [Yvonne Heller](https://yvonneheller.de/)
 
 ##Public
 - [SBB Blog](http://blog.sbb.ch/)
