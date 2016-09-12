@@ -17,6 +17,9 @@
 ##Tech
 - [TechCrunch](http://techcrunch.com/) (wordpress.com VIP)
 
+#Designers
+- [Tobias van Schneider](http://www.vanschneider.com/blog/)
+
 ##Webdesign/UI/UX
 - [SmashingMagazine](http://smashingmag.com/)
 - [Adobe](http://blogs.adobe.com/)
