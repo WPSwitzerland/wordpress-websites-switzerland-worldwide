@@ -7,6 +7,10 @@
 ##Famous people
 - [Michelle Hunziker](http://www.michellehunziker.it/en)
 
+##Foundations
+- [Obama Foundation](https://www.obama.org/)
+- [Jacobs Foundation](http://jacobsfoundation.org/)
+
 ##Media / News
 - [The New Yorker](http://www.newyorker.com/) (wordpress.com VIP)
 - [Quartz](http://qz.com/) (wordpress.com VIP)
