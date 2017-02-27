@@ -66,6 +66,8 @@
 - [Dominique Gisin](http://dominiquegisin.ch/)
 - [Stan Wawrinka](http://www.stanwawrinka.com/)
 - [Mobilesport](http://www.mobilesport.ch/)
+- [SCL Tigers](http://www.scltigers.ch/)
+- [Lausanne HC](http://www.lausannehc.ch/)
 
 ##Travel
 - [Hotelplan Blog](http://blog.hotelplan.ch/)
