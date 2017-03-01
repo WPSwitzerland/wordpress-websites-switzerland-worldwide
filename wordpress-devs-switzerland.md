@@ -3,6 +3,7 @@
 ## Agencies
 - [Xeit](http://www.xeit.ch/)
 - [Comotive](https://www.comotive.ch/)
+- [cubetech](https://www.cubetech.ch/)
 - [required+](http://required.ch/)
 - [miux](http://miux.ch/)
 
@@ -16,4 +17,4 @@
 - [Ulrich Pogson](http://ulrich.pogson.ch/) - [@grapplerulrich](https://twitter.com/grapplerulrich)
 - [Claudio Schwarz](https://www.claudioschwarz.com/) - [@purzlbaum](https://twitter.com/purzlbaum)
 - [Marc Wieland](http://www.marcwieland.ch/) - [@marcwieland95](https://twitter.com/marcwieland95)
-- [Mark Howells-Mead](https://permanenttourist.ch/topic/wordpress/) - [@mhmli](https://twitter.com/mhmli)
+- [Mark Howells-Mead](https://permanenttourist.ch/topic/wordpress/) - [@mhmli](https://twitter.com/markwebch)
