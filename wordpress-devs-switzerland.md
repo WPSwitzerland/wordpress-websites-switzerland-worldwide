@@ -3,9 +3,12 @@
 ## Agencies
 - [Comotive](https://www.comotive.ch/)
 - [cubetech](https://www.cubetech.ch/) - [@cubetech_ch](https://twitter.com/cubetech_ch)
+- [Guave Interactive](https://www.guaveinteractive.ch/)
 - [miux](http://miux.ch/)
+- [MIND](https://www.mind.ch/)
 - [required+](http://required.ch/)
-- [Xeit](http://www.xeit.ch/)
+- [Resort Studio](http://resortstudio.ch/digital/)
+- [What we do](https://www.whatwedo.ch/)
 
 ## Developers
 - [Christoph S. Ackermann](https://www.cubetech.ch/cubetech/team/christoph-s-ackermann/) - [@acki_](https://twitter.com/acki_)
