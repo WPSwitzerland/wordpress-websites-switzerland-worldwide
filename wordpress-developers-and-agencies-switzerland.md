@@ -1,4 +1,4 @@
-#WordPress developers in Switzerland
+# WordPress agencies and developers in Switzerland
 
 ## Agencies
 - [Comotive](https://www.comotive.ch/)
