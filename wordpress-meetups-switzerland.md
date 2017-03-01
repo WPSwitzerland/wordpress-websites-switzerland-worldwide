@@ -1,8 +1,5 @@
-# WordPress Meetups in Switzerland
-
+# WordPress meetups in Switzerland
 Here you find a list with all WordPress (and related) meetups in Switzerland.
-
----
 
 #### Bern
 
