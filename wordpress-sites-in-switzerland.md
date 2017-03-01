@@ -25,11 +25,17 @@ Please do not add agencies' own websites here. Add them to [this file](https://g
 - [Amir Vitis](http://www.amirvitis.ch/)
 - [Avantos](http://www.avantos.ch/)
 
+## Construction
+- [Wymann Elektro](https://www.wymann-elektro.ch)
+
 ## Education
 - [Juventus Schulen](http://juventus.ch/)
 - [Academia Raetica](http://academiaraetica.ch/)
 - [Blindenschule Zollikofen](http://www.blindenschule.ch/)
 - [foodward MAS Excellence in Food](http://foodward.ch/)
+
+## Engineering
+- [Balz Engineering AG](https://www.balzbau.ch)
 
 ## Drugs
 - [rave it safe](https://www.raveitsafe.ch/)
@@ -65,6 +71,7 @@ Please do not add agencies' own websites here. Add them to [this file](https://g
 - [Ärztlicher Bezirksverein Bern Regio](http://www.abvbernregio.ch/)
 - [CSS Insurance Magazin](https://blog.css.ch/)
 - [Gorilla by Schtifti Foundation](http://gorilla.ch/)
+- [Stucki Orthopädie](http://www.stuckiortho.ch/)
 
 ## Industry
 - [Burckhardt Compression AG](https://www.burckhardtcompression.com/)
@@ -74,9 +81,11 @@ Please do not add agencies' own websites here. Add them to [this file](https://g
 - [switchplus](https://switchplus.ch/en/)
 - [Switchie KB](https://switchie.ch/en/)
 - [Freshjobs](https://freshjobs.ch/)
+- [aMIRA](https://www.algacom-amira.com/)
 
 ## Jewelry
 - [Zoppi Juwelier](http://zoppijuwelier.ch/)
+- [Goldschmiede Krauss](https://www.goldschmiedekrauss.ch/)
 
 ## Marketing
 - [Burson-Marsteller](http://www.burson-marsteller.ch/)
@@ -146,6 +155,7 @@ Please do not add agencies' own websites here. Add them to [this file](https://g
 
 ## Society
 - [Handels- und Industrieverein Bern](http://www.wirtschaftstermine.ch/)
+- [USKA](http://www.uska.ch/)
 
 ## Sport
 - [UHC Dietlikon](http://www.uhcdietlikon.ch/)
