@@ -1,9 +1,9 @@
 #WordPress websites in Switzerland
 
 ## Agency
-- [Glowing Blue](http://www.glowing.blue/) - by [cubetech](https://www.cubetech.ch/)
-- [NPO4Cloud](https://www.npo4cloud.ch/) - by [cubetech](https://www.cubetech.ch/)
-- [Republica Live](http://www.republica-live.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Glowing Blue](http://www.glowing.blue/)
+- [NPO4Cloud](https://www.npo4cloud.ch/)
+- [Republica Live](http://www.republica-live.ch/)
 - [required](https://required.com/)
 - [soultank](http://soultank.ch/)
 - [Haptiq](https://haptiq.studio/)
@@ -14,28 +14,28 @@
 - [Terza IFM](http://terzaifm.ch/)
 - [Calanda](http://calanda.ch/)
 - [Bearth & Deplazes](http://bearth-deplazes.ch/)
-- [S+B Baumanagement](http://www.s-b.swiss/) - by [cubetech](https://www.cubetech.ch/)
-- [Sinzig + Partner](http://sinzig-partner.ch) - by [cubetech](https://www.cubetech.ch/)
+- [S+B Baumanagement](http://www.s-b.swiss/)
+- [Sinzig + Partner](http://sinzig-partner.ch)
 
 ## Auction
-- [Steiner & Zingg Onlinekunstauktionen](http://www.steiner-zingg.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Steiner & Zingg Onlinekunstauktionen](http://www.steiner-zingg.ch/)
 
 ## Blog
 - [Sunnechind](http://sunnechind.ch/)
 - [Karrierefrau Schweiz](https://www.karrierefrauschweiz.ch/)
 
 ## Coaching
-- [Amir Vitis](http://www.amirvitis.ch/) - by [cubetech](https://www.cubetech.ch/)
-- [Avantos](http://www.avantos.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Amir Vitis](http://www.amirvitis.ch/)
+- [Avantos](http://www.avantos.ch/)
 
 ## Education
 - [Juventus Schulen](http://juventus.ch/)
 - [Academia Raetica](http://academiaraetica.ch/)
-- [Blindenschule Zollikofen](http://www.blindenschule.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Blindenschule Zollikofen](http://www.blindenschule.ch/)
 - [foodward MAS Excellence in Food](http://foodward.ch/)
 
 ## Drugs
-- [rave it safe](https://www.raveitsafe.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [rave it safe](https://www.raveitsafe.ch/)
 
 ## Fashion
 - [The Fashion Fraction](http://www.thefashionfraction.com/)
@@ -51,29 +51,29 @@
 ## Food
 - [Natur Konkret](http://natur-konkret.ch/)
 - [Das Trüffelschwein](http://www.dastrueffelschwein.ch/)
-- [Lunchbag](https://lunchbag.ch/) - by [cubetech](https://www.cubetech.ch/)
-- [foodaktuell.ch](http://www.foodaktuell.ch/) - by [cubetech](https://www.cubetech.ch/)
-- [Schweizerische Gesellschaft für Ernährung](http://www.sge-ssn.ch/) - by [cubetech](https://www.cubetech.ch/)
-- [BR Bier](https://www.br-bier.ch) - by [cubetech](https://www.cubetech.ch/)
-- [Grotto Ticino](http://www.grotto-ticino.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Lunchbag](https://lunchbag.ch/)
+- [foodaktuell.ch](http://www.foodaktuell.ch/)
+- [Schweizerische Gesellschaft für Ernährung](http://www.sge-ssn.ch/)
+- [BR Bier](https://www.br-bier.ch)
+- [Grotto Ticino](http://www.grotto-ticino.ch/)
 - [foodwardjobs](http://foodwardjobs.com/)
 
 ## Foundation
-- [CONTACT - Stiftung für Suchthilfe](http://www.contact-suchthilfe.ch/) - by [cubetech](https://www.cubetech.ch/)
-- [CONTACT Arbeit](http://www.contact-arbeit.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [CONTACT - Stiftung für Suchthilfe](http://www.contact-suchthilfe.ch/)
+- [CONTACT Arbeit](http://www.contact-arbeit.ch/)
 - [Schtifti Foundation](http://schtifti.ch/)
 
 ## Health
-- [Praxis Gruber](http://www.praxisgruber.ch/) - by [cubetech](https://www.cubetech.ch/)
-- [Ärztlicher Bezirksverein Bern Regio](http://www.abvbernregio.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Praxis Gruber](http://www.praxisgruber.ch/)
+- [Ärztlicher Bezirksverein Bern Regio](http://www.abvbernregio.ch/)
 - [CSS Insurance Magazin](https://blog.css.ch/)
 - [Gorilla by Schtifti Foundation](http://gorilla.ch/)
 
 ## Industry
-- [Burckhardt Compression AG](https://www.burckhardtcompression.com/) - by [cubetech](https://www.cubetech.ch/)
+- [Burckhardt Compression AG](https://www.burckhardtcompression.com/)
 
 ## IT / Services
-- [Data Dynamic AG](http://www.ddag.ch) - by [cubetech](https://www.cubetech.ch/)
+- [Data Dynamic AG](http://www.ddag.ch)
 - [switchplus](https://switchplus.ch/en/)
 - [Switchie KB](https://switchie.ch/en/)
 - [Freshjobs](https://freshjobs.ch/)
@@ -92,8 +92,8 @@
 - [NZZ Product Plattform](https://abo.nzz.ch/)
 
 ## Mobility
-- [Garage Hofmann](http://www.garage-hofmann.ch/) - by [cubetech](https://www.cubetech.ch/)
-- [Auto Ricardo - Händlerportal](http://haendler.auto.ricardo.ch) - by [cubetech](https://www.cubetech.ch/)
+- [Garage Hofmann](http://www.garage-hofmann.ch/)
+- [Auto Ricardo - Händlerportal](http://haendler.auto.ricardo.ch)
 - [Moving Media Basel](https://mm-basel.ch/)
 
 ## Music
@@ -114,12 +114,12 @@
 - [SBB Stories](http://blog.sbb.ch/)
 - [SBB Cargo Blog](http://blog.sbbcargo.com/)
 - [SBB Media Relations](https://sbb-medien.ch/)
-- [Zukunft Bahnhof Bern](https://www.zukunftbahnhofbern.ch/de/home/) - by [cubetech](https://www.cubetech.ch/)
-- [ON-X](http://www.on-x.ch/) - by [cubetech](https://www.cubetech.ch/)
-- [SECO Online Services](https://online-services.admin.ch) - by [cubetech](https://www.cubetech.ch/)
-- [KMU Wahlkandidaten 2015](http://www.kmu-wahlkandidaten.ch) - by [cubetech](https://www.cubetech.ch/)
-- [Ortsplanungsrevision Thun](http://www.ortsplanungsrevisionthun.ch/) - by [cubetech](https://www.cubetech.ch/)
-- [Bundesamt für Energie - watt d'or 4 all](http://www.wattdor4all.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Zukunft Bahnhof Bern](https://www.zukunftbahnhofbern.ch/de/home/)
+- [ON-X](http://www.on-x.ch/)
+- [SECO Online Services](https://online-services.admin.ch)
+- [KMU Wahlkandidaten 2015](http://www.kmu-wahlkandidaten.ch)
+- [Ortsplanungsrevision Thun](http://www.ortsplanungsrevisionthun.ch/)
+- [Bundesamt für Energie - watt d'or 4 all](http://www.wattdor4all.ch/)
 - [Pro Helvetia - Swiss Arts Council](https://prohelvetia.ch/en/)
 
 ## Public relations / micro sites
@@ -129,10 +129,10 @@
 
 ## Real estate
 - [SBB Immobilien](http://www.sbbimmo.ch/) (private site)
-- [Müller & Müller Immobilien](http://www.mm-immob.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Müller & Müller Immobilien](http://www.mm-immob.ch/)
 
 ## Retail
-- [Schuhmacherei Sahli](http://www.schuhmacherei-sahli.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Schuhmacherei Sahli](http://www.schuhmacherei-sahli.ch/)
 
 ## Service provider
 - [Flims Electric](http://www.flimselectric.ch/)
@@ -141,14 +141,14 @@
 ## Small business
 - [Blumenwerkstatt Interlaken](http://blumenwerkstatt.ch/)
 - [Sabine Egli](http://sabineegli.ch/)
-- [Kreuz Apotheke](http://www.kazag.ch) - by [cubetech](https://www.cubetech.ch/)
-- [Lichtschnitt](http://www.lichtschnitt.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Kreuz Apotheke](http://www.kazag.ch)
+- [Lichtschnitt](http://www.lichtschnitt.ch/)
 - [Mayoris](https://www.mayoris.com/)
 - [Bitboard](http://bitboard.ch/)
 - [Boris Baldinger Photography](https://www.boris-baldinger.com/)
 
 ## Society
-- [Handels- und Industrieverein Bern](http://www.wirtschaftstermine.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Handels- und Industrieverein Bern](http://www.wirtschaftstermine.ch/)
 
 ## Sport
 - [UHC Dietlikon](http://www.uhcdietlikon.ch/)
@@ -159,8 +159,8 @@
 - [Mobilesport](http://www.mobilesport.ch/)
 - [SCL Tigers](http://www.scltigers.ch/)
 - [Lausanne HC](http://www.lausannehc.ch/)
-- [Swiss Paralympic](http://www.swissparalympic.ch/) - by [cubetech](https://www.cubetech.ch/)
-- [Sportamt der Stadt Bern](http://www.sportamt-bern.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Swiss Paralympic](http://www.swissparalympic.ch/)
+- [Sportamt der Stadt Bern](http://www.sportamt-bern.ch/)
 
 ## Travel
 - [Hotelplan Blog](http://blog.hotelplan.ch/)
@@ -176,7 +176,7 @@
 - [Mutten](http://www.mutten.ch/)
 
 ## Toys
-- [Naef Spiele](https://www.naefspiele.ch/de/home/) - by [cubetech](https://www.cubetech.ch/)
+- [Naef Spiele](https://www.naefspiele.ch/de/home/)
 
 ## Wedding
-- [Tessa & Thomi](https://www.tessa-thomi.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Tessa & Thomi](https://www.tessa-thomi.ch/)
