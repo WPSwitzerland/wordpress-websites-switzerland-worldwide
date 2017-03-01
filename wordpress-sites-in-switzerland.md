@@ -1,6 +1,5 @@
-#WordPress websites in Switzerland
-
-Please do not add agencies' own websites here. Add them to [this file](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md).
+# Non-agency websites in Switzerland which are powered by WordPress
+Please do not add agencies' own websites here. Add them to [this file](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md). This site is for client/personal projects only.
 
 ## Agency (no dev Agencies)
 - [NPO4Cloud](https://www.npo4cloud.ch/)
