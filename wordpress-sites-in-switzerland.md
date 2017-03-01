@@ -2,6 +2,10 @@
 
 Please do not add agencies' own websites here. Add them to [this file](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md).
 
+## Agency (no dev Agencies)
+- [NPO4Cloud](https://www.npo4cloud.ch/)
+- [Republica Live](http://www.republica-live.ch/)
+
 ## Architecture
 - [Planix](http://planixteam.ch/)
 - [Donatsch & Partner](http://www.donatsch.ch/)
@@ -171,6 +175,9 @@ Please do not add agencies' own websites here. Add them to [this file](https://g
 
 ## Toys
 - [Naef Spiele](https://www.naefspiele.ch/de/home/)
+
+## Usability
+- [soultank](http://soultank.ch/)
 
 ## Wedding
 - [Tessa & Thomi](https://www.tessa-thomi.ch/)
