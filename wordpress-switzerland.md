@@ -49,11 +49,11 @@
 - [Yvonne Heller](https://yvonneheller.de/)
 
 ## Public
-- [SBB Blog](http://blog.sbb.ch/)
-- [SBB Cargo Blog](http://blog.sbbcargo.com/)
+- [Alertswiss](https://alertswiss.ch/)
 - [Cath. church of canton Zurich](http://zh.kath.ch/blog/)
 - [ENSI](http://ensi.ch)
-- [Alertswiss](https://alertswiss.ch/)
+- [SBB Blog](http://blog.sbb.ch/)
+- [SBB Cargo Blog](http://blog.sbbcargo.com/)
 
 ## Public relations / micro sites
 - [NZZ Business Report](http://gb.nzz.ch/)
@@ -61,13 +61,14 @@
 - [Grischa Personal](http://grischapersonal.ch/)
 
 ## Real estate
-- [SBB Immobilien](https://www.sbbimmo.ch/) (private site)
+- [SBB Immobilien](http://www.sbbimmo.ch/) (private site)
 
 ## Service provider
 - [Flims Electric](http://www.flimselectric.ch/)
 
 ## Small business
 - [Blumenwerkstatt Interlaken](http://blumenwerkstatt.ch/)
+- [Sabine Egli](http://sabineegli.ch/)
 
 ## Sport
 - [UHC Dietlikon](http://www.uhcdietlikon.ch/)
