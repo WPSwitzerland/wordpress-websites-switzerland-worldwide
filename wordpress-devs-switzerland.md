@@ -6,6 +6,10 @@
 - [cubetech](https://www.cubetech.ch/)
 - [required+](http://required.ch/)
 - [miux](http://miux.ch/)
+- [MIND](https://www.mind.ch/)
+- [Resort Studio](http://resortstudio.ch/digital/)
+- [Guave Interactive](https://www.guaveinteractive.ch/)
+- [What we do](https://www.whatwedo.ch/)
 
 ## Developers
 - [Pascal Birchler](https://pascalbirchler.com/) - [@swissspidy](https://twitter.com/swissspidy)
