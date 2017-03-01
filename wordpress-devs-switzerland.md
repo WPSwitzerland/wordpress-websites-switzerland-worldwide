@@ -6,7 +6,7 @@
 - [Guave Interactive](https://www.guaveinteractive.ch/)
 - [miux](http://miux.ch/)
 - [MIND](https://www.mind.ch/)
-- [required+](http://required.ch/)
+- [required](https://required.com/)
 - [Resort Studio](http://resortstudio.ch/digital/)
 - [Webkinder](https://www.webkinder.ch/)
 - [What we do](https://www.whatwedo.ch/)
