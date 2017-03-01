@@ -5,8 +5,7 @@ Thanks for contributing and adding your projects!
 We want to build a great archive of all WordPress projects.
 
 ## Files
-
-* wordpress-meetups-switzerland.md - List of WordPress meetups in Switzerland
-* wordpress-worldwide.md – Websites built with WordPress from around the world
-* wordpress-switzerland.md – Websites built with WordPress from Switzerland
-* wordpress-developers-and-agencies-switzerland.md - Agencies and developers for WordPress from Switzerland
+* [WordPress agencies and developers in Switzerland](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md)
+* [WordPress meetups in Switzerland](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-meetups-switzerland.md)
+* [Non-agency websites in Switzerland which are powered by WordPress](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-sites-in-switzerland.md)
+* [Outstanding websites around the world which are powered by WordPress[(https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-sites-worldwide.md)
