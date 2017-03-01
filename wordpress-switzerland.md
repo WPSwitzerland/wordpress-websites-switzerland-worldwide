@@ -4,6 +4,9 @@
 - [Glowing Blue](http://www.glowing.blue/) - by [cubetech](https://www.cubetech.ch/)
 - [NPO4Cloud](https://www.npo4cloud.ch/) - by [cubetech](https://www.cubetech.ch/)
 - [Republica Live](http://www.republica-live.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [required](https://required.com/)
+- [soultank](http://soultank.ch/)
+- [Haptiq](https://haptiq.studio/)
 
 ## Architecture
 - [Planix](http://planixteam.ch/)
@@ -29,6 +32,7 @@
 - [Juventus Schulen](http://juventus.ch/)
 - [Academia Raetica](http://academiaraetica.ch/)
 - [Blindenschule Zollikofen](http://www.blindenschule.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [foodward MAS Excellence in Food](http://foodward.ch/)
 
 ## Drugs
 - [rave it safe](https://www.raveitsafe.ch/) - by [cubetech](https://www.cubetech.ch/)
@@ -41,6 +45,8 @@
 
 ## Finance
 - [Raiffeisen Panorama Magazin](http://panorama-magazin.ch/)
+- [Migros Bank Blog](https://blog.migrosbank.ch/de/)
+- [Kuoni Group Annual Report 2015](https://2015.kuoni-report.com/en/)
 
 ## Food
 - [Natur Konkret](http://natur-konkret.ch/)
@@ -50,26 +56,35 @@
 - [Schweizerische Gesellschaft für Ernährung](http://www.sge-ssn.ch/) - by [cubetech](https://www.cubetech.ch/)
 - [BR Bier](https://www.br-bier.ch) - by [cubetech](https://www.cubetech.ch/)
 - [Grotto Ticino](http://www.grotto-ticino.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [foodwardjobs](http://foodwardjobs.com/)
 
 ## Foundation
 - [CONTACT - Stiftung für Suchthilfe](http://www.contact-suchthilfe.ch/) - by [cubetech](https://www.cubetech.ch/)
 - [CONTACT Arbeit](http://www.contact-arbeit.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Schtifti Foundation](http://schtifti.ch/)
 
 ## Health
 - [Praxis Gruber](http://www.praxisgruber.ch/) - by [cubetech](https://www.cubetech.ch/)
 - [Ärztlicher Bezirksverein Bern Regio](http://www.abvbernregio.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [CSS Insurance Magazin](https://blog.css.ch/)
+- [Gorilla by Schtifti Foundation](http://gorilla.ch/)
 
 ## Industry
 - [Burckhardt Compression AG](https://www.burckhardtcompression.com/) - by [cubetech](https://www.cubetech.ch/)
 
 ## IT / Services
 - [Data Dynamic AG](http://www.ddag.ch) - by [cubetech](https://www.cubetech.ch/)
+- [switchplus](https://switchplus.ch/en/)
+- [Switchie KB](https://switchie.ch/en/)
+- [Freshjobs](https://freshjobs.ch/)
 
 ## Jewelry
 - [Zoppi Juwelier](http://zoppijuwelier.ch/)
 
 ## Marketing
 - [Burson-Marsteller](http://www.burson-marsteller.ch/)
+- [Marie-Christine Schindler](https://www.mcschindler.com/)
+- [Corporate Dialog](https://corporate-dialog.ch/)
 
 ## Media
 - [SRF Media Room](http://www.srf.ch/medien/)
@@ -79,12 +94,13 @@
 ## Mobility
 - [Garage Hofmann](http://www.garage-hofmann.ch/) - by [cubetech](https://www.cubetech.ch/)
 - [Auto Ricardo - Händlerportal](http://haendler.auto.ricardo.ch) - by [cubetech](https://www.cubetech.ch/)
+- [Moving Media Basel](https://mm-basel.ch/)
 
 ## Music
 - [Dabu Fantastic](http://dabufantastic.ch/)
 
 ## NGO
-- [Amnesty International Schweiz Kampagnen](https://www.cubetech.ch/referenz/amnesty-migration/) (nur beschränkte Zeit online) - by [cubetech](https://www.cubetech.ch/)
+- [Amnesty International Schweiz Kampagnen](https://www.cubetech.ch/referenz/amnesty-migration/) (nur beschränkte Zeit online) by [cubetech](https://www.cubetech.ch/)
 
 ## Portfolio
 - [MMXV](https://mmxv.io/)
@@ -93,16 +109,18 @@
 
 ## Public
 - [Alertswiss](https://alertswiss.ch/)
-- [Cath. church of canton Zurich](http://zh.kath.ch/blog/)
+- [Cath. church of canton Zurich](http://blog.zhkath.ch/)
 - [ENSI](http://ensi.ch)
-- [SBB Blog](http://blog.sbb.ch/)
+- [SBB Stories](http://blog.sbb.ch/)
 - [SBB Cargo Blog](http://blog.sbbcargo.com/)
+- [SBB Media Relations](https://sbb-medien.ch/)
 - [Zukunft Bahnhof Bern](https://www.zukunftbahnhofbern.ch/de/home/) - by [cubetech](https://www.cubetech.ch/)
 - [ON-X](http://www.on-x.ch/) - by [cubetech](https://www.cubetech.ch/)
 - [SECO Online Services](https://online-services.admin.ch) - by [cubetech](https://www.cubetech.ch/)
 - [KMU Wahlkandidaten 2015](http://www.kmu-wahlkandidaten.ch) - by [cubetech](https://www.cubetech.ch/)
 - [Ortsplanungsrevision Thun](http://www.ortsplanungsrevisionthun.ch/) - by [cubetech](https://www.cubetech.ch/)
 - [Bundesamt für Energie - watt d'or 4 all](http://www.wattdor4all.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Pro Helvetia - Swiss Arts Council](https://prohelvetia.ch/en/)
 
 ## Public relations / micro sites
 - [NZZ Business Report](http://gb.nzz.ch/)
@@ -118,12 +136,16 @@
 
 ## Service provider
 - [Flims Electric](http://www.flimselectric.ch/)
+- [Swisscom SME Magazin](https://magazin.swisscom.ch/)
 
 ## Small business
 - [Blumenwerkstatt Interlaken](http://blumenwerkstatt.ch/)
 - [Sabine Egli](http://sabineegli.ch/)
 - [Kreuz Apotheke](http://www.kazag.ch) - by [cubetech](https://www.cubetech.ch/)
 - [Lichtschnitt](http://www.lichtschnitt.ch/) - by [cubetech](https://www.cubetech.ch/)
+- [Mayoris](https://www.mayoris.com/)
+- [Bitboard](http://bitboard.ch/)
+- [Boris Baldinger Photography](https://www.boris-baldinger.com/)
 
 ## Society
 - [Handels- und Industrieverein Bern](http://www.wirtschaftstermine.ch/) - by [cubetech](https://www.cubetech.ch/)
@@ -143,6 +165,7 @@
 ## Travel
 - [Hotelplan Blog](http://blog.hotelplan.ch/)
 - [SBB RCS](https://www.sbbrcs.ch/)
+- [Kuoni Group](https://kuoni.com/)
 
 ## Tourism
 - [Uetliberg](http://www.uetliberg.ch/)
