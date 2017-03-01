@@ -100,7 +100,7 @@
 - [Dabu Fantastic](http://dabufantastic.ch/)
 
 ## NGO
-- [Amnesty International Schweiz Kampagnen](https://www.cubetech.ch/referenz/amnesty-migration/) (nur beschränkte Zeit online) by [cubetech](https://www.cubetech.ch/)
+- (Yours?)
 
 ## Portfolio
 - [MMXV](https://mmxv.io/)
