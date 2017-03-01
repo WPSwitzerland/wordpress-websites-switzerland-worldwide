@@ -1,10 +1,6 @@
 #WordPress websites in Switzerland
 
-## Agency
-- [Glowing Blue](http://www.glowing.blue/)
-- [NPO4Cloud](https://www.npo4cloud.ch/)
-- [Republica Live](http://www.republica-live.ch/)
-- [soultank](http://soultank.ch/)
+Please do not add agencies' own websites here. Add them to [this file](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md).
 
 ## Architecture
 - [Planix](http://planixteam.ch/)
