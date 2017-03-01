@@ -1,4 +1,4 @@
-#WordPress websites worldwide
+# Outstanding websites around the world which are powered by WordPress
 
 ##Music
 - [Beyoncé](http://www.beyonce.com/)
