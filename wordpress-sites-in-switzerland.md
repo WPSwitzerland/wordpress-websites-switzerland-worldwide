@@ -4,9 +4,7 @@
 - [Glowing Blue](http://www.glowing.blue/)
 - [NPO4Cloud](https://www.npo4cloud.ch/)
 - [Republica Live](http://www.republica-live.ch/)
-- [required](https://required.com/)
 - [soultank](http://soultank.ch/)
-- [Haptiq](https://haptiq.studio/)
 
 ## Architecture
 - [Planix](http://planixteam.ch/)
