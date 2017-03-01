@@ -93,9 +93,10 @@ Please do not add agencies' own websites here. Add them to [this file](https://g
 - [Corporate Dialog](https://corporate-dialog.ch/)
 
 ## Media
+- [Der Bund](http://www.derbund.ch/blogs/) (various individual blogs)
+- [NZZ Product Plattform](https://abo.nzz.ch/)
 - [SRF Media Room](http://www.srf.ch/medien/)
 - [Tele Basel](https://telebasel.ch/)
-- [NZZ Product Plattform](https://abo.nzz.ch/)
 
 ## Mobility
 - [Garage Hofmann](http://www.garage-hofmann.ch/)
