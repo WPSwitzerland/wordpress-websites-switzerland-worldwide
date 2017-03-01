@@ -8,6 +8,7 @@
 - [MIND](https://www.mind.ch/)
 - [required+](http://required.ch/)
 - [Resort Studio](http://resortstudio.ch/digital/)
+- [WebKinder](https://www.webkinder.ch/)
 - [What we do](https://www.whatwedo.ch/)
 - [Xeit](http://www.xeit.ch/)
 
