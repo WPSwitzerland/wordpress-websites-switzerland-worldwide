@@ -17,7 +17,7 @@
 - [Roger Burkhard](http://rogerburkhard.com/de/)
 - [Karin Christen](http://karinchristen.com/) - [@karinchristen](https://twitter.com/karinchristen)
 - [Silvan Hagen](http://silvanhagen.com/) - [@neverything](https://twitter.com/neverything)
-- [Mark Howells-Mead](https://permanenttourist.ch/topic/wordpress/) - [@mhmli](https://twitter.com/mhmli)
+- [Mark Howells-Mead](https://permanenttourist.ch/topic/wordpress/) - [@markwebch](https://twitter.com/mhmli)
 - [Ulrich Pogson](http://ulrich.pogson.ch/) - [@grapplerulrich](https://twitter.com/grapplerulrich)
 - [Claudio Rimann](http://claudiorimann.ch/) - [@pandulu](https://twitter.com/pandulu)
 - [Claudio Schwarz](https://www.claudioschwarz.com/) - [@purzlbaum](https://twitter.com/purzlbaum)
