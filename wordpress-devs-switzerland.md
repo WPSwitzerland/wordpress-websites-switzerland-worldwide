@@ -2,7 +2,7 @@
 
 ## Agencies
 - [Comotive](https://www.comotive.ch/)
-- [cubetech](https://www.cubetech.ch/) - [@cubetech_ch](https://twitter.com/cubetech_ch)
+- [cubetech](https://www.cubetech.ch/){:target="_blank"} - [@cubetech_ch](https://twitter.com/cubetech_ch)
 - [Guave Interactive](https://www.guaveinteractive.ch/)
 - [miux](http://miux.ch/)
 - [MIND](https://www.mind.ch/)
