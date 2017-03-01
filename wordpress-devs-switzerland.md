@@ -9,6 +9,7 @@
 - [required+](http://required.ch/)
 - [Resort Studio](http://resortstudio.ch/digital/)
 - [What we do](https://www.whatwedo.ch/)
+- [Xeit](http://www.xeit.ch/)
 
 ## Developers
 - [Christoph S. Ackermann](https://www.cubetech.ch/cubetech/team/christoph-s-ackermann/) - [@acki_](https://twitter.com/acki_)
