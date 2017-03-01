@@ -4,6 +4,7 @@
 - [Comotive](https://www.comotive.ch/)
 - [cubetech](https://www.cubetech.ch/) - [@cubetech_ch](https://twitter.com/cubetech_ch)
 - [Guave Interactive](https://www.guaveinteractive.ch/)
+- [Haptiq](https://haptiq.studio/)
 - [miux](http://miux.ch/)
 - [MIND](https://www.mind.ch/)
 - [required](https://required.com/)
