@@ -3,7 +3,6 @@
 ## Agencies
 - [Comotive](https://www.comotive.ch/)
 - [cubetech](https://www.cubetech.ch/) - [@cubetech_ch](https://twitter.com/cubetech_ch)
-- [Glowing Blue](http://www.glowing.blue/)
 - [Guave Interactive](https://www.guaveinteractive.ch/)
 - [Haptiq](https://haptiq.studio/)
 - [MIND](https://www.mind.ch/)
