@@ -5,7 +5,7 @@ Please do not add a WordPress agency's own website website here. Add them to [th
 - [Glowing Blue](http://www.glowing.blue/)
 - [NPO4Cloud](https://www.npo4cloud.ch/)
 - [Republica Live](http://www.republica-live.ch/)
-- [Web development agencies are here](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md)
+- ([Web development agencies are here](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md).)
 
 ## Architecture
 - [Bearth & Deplazes](http://bearth-deplazes.ch/)
