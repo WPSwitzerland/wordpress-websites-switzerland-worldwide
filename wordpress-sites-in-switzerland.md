@@ -1,10 +1,11 @@
-# Non-agency websites in Switzerland which are powered by WordPress
-Please do not add agencies' own websites here. Add them to [this file](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md). This site is for client/personal projects only.
+# Websites in Switzerland which are powered by WordPress
+Please do not add a WordPress agency's own website website here. Add them to [this file](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md). This site is for client/personal projects only.
 
-## Agency (no dev Agencies)
+## Agencies, not including web development agencies
 - [Glowing Blue](http://www.glowing.blue/)
 - [NPO4Cloud](https://www.npo4cloud.ch/)
 - [Republica Live](http://www.republica-live.ch/)
+- [Web development agencies are here](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md)
 
 ## Architecture
 - [Bearth & Deplazes](http://bearth-deplazes.ch/)
