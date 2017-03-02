@@ -140,8 +140,8 @@ Please do not add agencies' own websites here. Add them to [this file](https://g
 - [Zukunft Bahnhof Bern](https://www.zukunftbahnhofbern.ch/de/home/)
 
 ## Public relations / micro sites
-- [Homegate InnoLab](http://innolab.homegate.ch/)
 - [Grischa Personal](http://grischapersonal.ch/)
+- [Homegate InnoLab](http://innolab.homegate.ch/)
 - [NZZ Business Report](http://gb.nzz.ch/)
 
 ## Real estate
@@ -186,15 +186,13 @@ Please do not add agencies' own websites here. Add them to [this file](https://g
 - [Swiss Paralympic](http://www.swissparalympic.ch/)
 - [UHC Dietlikon](http://www.uhcdietlikon.ch/)
 
-## Travel
-- [Hotelplan Blog](http://blog.hotelplan.ch/)
-- [Kuoni Group](https://kuoni.com/)
-- [SBB RCS](https://www.sbbrcs.ch/)
-
-## Tourism
+## Travel and tourism
 - [Giardino Verde](http://www.giardino-verde.ch/)
 - [Gmuetliberg](http://www.gmuetliberg.ch/)
+- [Hotelplan Blog](http://blog.hotelplan.ch/)
+- [Hotel Posthuis, Melchsee-Frutt](https://www.posthuis.ch/)
 - [Kreaktiv Events](http://www.kreaktiv-events.ch/)
+- [Kuoni Group](https://kuoni.com/)
 - [Mutten](http://www.mutten.ch/)
 - [Uetliberg](http://www.uetliberg.ch/)
 - [Uto Kulm](http://www.utokulm.ch/)
