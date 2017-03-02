@@ -24,3 +24,4 @@
 - [Claudio Schwarz](https://www.claudioschwarz.com/) - [@purzlbaum](https://twitter.com/purzlbaum)
 - [Michael Sebel](http://sebel.ch) - [@msebel](https://twitter.com/msebel)
 - [Marc Wieland](http://www.marcwieland.ch/) - [@marcwieland95](https://twitter.com/marcwieland95)
+- [Eric Mueller](http://www.ericmueller.org/) - [@ericmueller](https://twitter.com/ericmueller)
