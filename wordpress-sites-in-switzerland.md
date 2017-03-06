@@ -187,6 +187,9 @@ Please do not add a WordPress agency's own website website here. Add them to [th
 - [Swiss Paralympic](http://www.swissparalympic.ch/)
 - [UHC Dietlikon](http://www.uhcdietlikon.ch/)
 
+## Translation
+- [Mark O'Neil Translations](https://markoneil.ch/)
+
 ## Travel and tourism
 - [Giardino Verde](http://www.giardino-verde.ch/)
 - [Gmuetliberg](http://www.gmuetliberg.ch/)
