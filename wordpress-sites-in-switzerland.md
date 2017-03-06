@@ -51,7 +51,7 @@ Please do not add agencies' own websites here. Add them to [this file](https://g
 - [Migros Bank Blog](https://blog.migrosbank.ch/de/)
 - [Kuoni Group Annual Report 2015](https://2015.kuoni-report.com/en/)
 
-## Food
+## Food & Drinks
 - [Natur Konkret](http://natur-konkret.ch/)
 - [Das Trüffelschwein](http://www.dastrueffelschwein.ch/)
 - [Lunchbag](https://lunchbag.ch/)
