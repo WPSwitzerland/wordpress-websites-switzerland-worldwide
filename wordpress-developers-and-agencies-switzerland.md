@@ -10,7 +10,7 @@ Please keep this list in alphabetic order. Only WordPress agencies, developers a
 - [miux](http://miux.ch/)
 - [Openstream](https://www.openstream.ch/) - [@openstream](https://twitter.com/openstream)
 - [Refined Practice](https://www.refinedpractice.com/) - [@RefinedPractice](https://twitter.com/RefinedPractice)
-- [required](https://required.com/)
+- [required](https://required.com/) - [@wearerequired](https://twitter.com/wearerequired)
 - [Resort Studio](http://resortstudio.ch/digital/)
 - [Say Hello](https://sayhello.ch)
 - [WebKinder](https://www.webkinder.ch/)
