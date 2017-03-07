@@ -30,4 +30,4 @@
 
 ## Webdesign/UI/UX
 - [Adobe](http://blogs.adobe.com/)
-- [SmashingMagazine](http://smashingmag.com/)
+- [SmashingMagazine](https://www.smashingmagazine.com/)
