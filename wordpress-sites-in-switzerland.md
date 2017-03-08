@@ -57,7 +57,8 @@ Please do not add a WordPress agency's own website website here. Add them to [th
 - [Migros Bank Blog](https://blog.migrosbank.ch/de/)
 - [Raiffeisen Panorama Magazin](http://panorama-magazin.ch/)
 
-## Food
+
+## Food & Drinks
 - [BR Bier](https://www.br-bier.ch)
 - [Das Trüffelschwein](http://www.dastrueffelschwein.ch/)
 - [foodaktuell.ch](http://www.foodaktuell.ch/)

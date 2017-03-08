@@ -4,7 +4,7 @@ Please keep this list in alphabetic order. Only WordPress agencies, developers a
 ## Agencies
 - [Comotive](https://www.comotive.ch/)
 - [cubetech](https://www.cubetech.ch/) - [@cubetech_ch](https://twitter.com/cubetech_ch)
-- [Guave Interactive](https://www.guaveinteractive.ch/)
+- [Guave Interactive](https://www.guaveinteractive.ch/)- [@guave_ia](https://twitter.com/guave_ia)
 - [Haptiq](https://haptiq.studio/)
 - [MIND](https://www.mind.ch/)
 - [miux](http://miux.ch/)
