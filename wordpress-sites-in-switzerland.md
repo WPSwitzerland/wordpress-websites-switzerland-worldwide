@@ -208,6 +208,7 @@ Please do not add a WordPress agency's own website website here. Add them to [th
 
 ## Usability
 - [soultank](http://soultank.ch/)
+- [zeix](https://zeix.com/)
 
 ## Wedding
 - [Tessa & Thomi](https://www.tessa-thomi.ch/)
