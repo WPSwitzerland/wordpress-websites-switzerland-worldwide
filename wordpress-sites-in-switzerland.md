@@ -59,6 +59,7 @@ Please do not add a WordPress agency's own website website here. Add them to [th
 
 
 ## Food & Drinks
+- [1664 Bier](http://1664.ch/)
 - [BR Bier](https://www.br-bier.ch)
 - [Das Trüffelschwein](http://www.dastrueffelschwein.ch/)
 - [foodaktuell.ch](http://www.foodaktuell.ch/)
