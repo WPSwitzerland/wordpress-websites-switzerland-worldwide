@@ -1,5 +1,5 @@
 # Websites in Switzerland which are powered by WordPress
-Please do not add a WordPress agency's own website website here. Add them to [this file](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md). This site is for client/personal projects only.
+Please do not add WordPress agencies' own websites here. Add them to [this file](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md). This site is for client/personal projects only.
 
 ## Agencies, not including web development agencies
 - [Glowing Blue](http://www.glowing.blue/)
