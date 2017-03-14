@@ -23,6 +23,9 @@
 - [Reuters Blogs](http://blogs.reuters.com/us/)
 - [The Sun](https://www.thesun.co.uk/) (Leading UK tabloid newspaper)
 
+## Photography
+- [Nick Turpin](http://nickturpin.com/)
+
 ## Sports
 - [Rogers Cup, Tennis](http://www.rogerscup.com/)
 
