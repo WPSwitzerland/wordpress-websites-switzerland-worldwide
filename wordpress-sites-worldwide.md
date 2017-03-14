@@ -21,6 +21,7 @@
 - [New Yorker](http://www.newyorker.com/) (wordpress.com VIP)
 - [Quartz](http://qz.com/) (wordpress.com VIP)
 - [Reuters Blogs](http://blogs.reuters.com/us/)
+- [The Sun](https://www.thesun.co.uk/) (Leading UK tabloid newspaper)
 
 ## Sports
 - [Rogers Cup, Tennis](http://www.rogerscup.com/)
