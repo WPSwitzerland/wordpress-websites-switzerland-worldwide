@@ -1,6 +1,9 @@
 # WordPress agencies and developers in Switzerland
 Please keep this list in alphabetic order. Only WordPress agencies, developers and freelance workers please!
 
+# Add your site/s
+Please submit changes and additions to this repository via Patch or Pull Request. Don't have a Github account, or you're not sure how to contribute? Just send an email to github@wpswitzerland.ch and we'll take it from there.
+
 ## Agencies
 - [Comotive](https://www.comotive.ch/)
 - [cubetech](https://www.cubetech.ch/) - [@cubetech_ch](https://twitter.com/cubetech_ch)
