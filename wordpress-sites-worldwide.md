@@ -3,6 +3,9 @@
 # Add your site/s
 Please submit changes and additions to this repository via Patch or Pull Request. Don't have a Github account, or you're not sure how to contribute? Just send an email to github@wpswitzerland.ch and we'll take it from there.
 
+## Agencies
+- [XWP](https://xwp.co/)
+
 ## Designers
 - [Tobias van Schneider](http://www.vanschneider.com/blog/)
 
