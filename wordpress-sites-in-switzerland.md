@@ -41,6 +41,7 @@ Please do not add a WordPress agency's own website website here. Add them to [th
 - [Juventus Schulen](http://juventus.ch/)
 
 ## Engineering
+- [Baulink](https://www.baulink.ch/)
 - [Balz Engineering AG](https://www.balzbau.ch)
 
 ## Drugs
