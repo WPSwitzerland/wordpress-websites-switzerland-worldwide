@@ -44,6 +44,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Juventus Schulen](http://juventus.ch/)
 
 ## Engineering
+- [Baulink](https://www.baulink.ch/)
 - [Balz Engineering AG](https://www.balzbau.ch)
 
 ## Drugs
