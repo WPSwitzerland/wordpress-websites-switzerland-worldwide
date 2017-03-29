@@ -19,6 +19,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Resort Studio](http://resortstudio.ch/digital/)
 - [Say Hello](https://sayhello.ch)
 - [WebKinder](https://www.webkinder.ch/)
+- [Web Updates KMU GmbH](https://wuk.ch/) - [@wuk_ch](https://twitter.com/wuk_ch)
 - [What we do](https://www.whatwedo.ch/)
 - [Xeit](http://www.xeit.ch/)
 
@@ -37,4 +38,5 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Roger Burkhard](http://rogerburkhard.com/de/)
 - [Sandro Würmli](https://www.sandrowuermli.ch) - [@sandrowuermli](https://www.twitter.com/sandrowuermli)
 - [Silvan Hagen](http://silvanhagen.com/) - [@neverything](https://twitter.com/neverything)
+- [Stefan Murawski](https://wuk.ch/kontakt/team/) - [@stefanmurawski](https://twitter.com/stefanmurawski)
 - [Ulrich Pogson](http://ulrich.pogson.ch/) - [@grapplerulrich](https://twitter.com/grapplerulrich)
