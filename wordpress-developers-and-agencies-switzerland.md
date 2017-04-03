@@ -18,6 +18,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [required](https://required.com/) - [@wearerequired](https://twitter.com/wearerequired)
 - [Resort Studio](http://resortstudio.ch/digital/)
 - [Say Hello](https://sayhello.ch)
+- [someco](https://someco.ch)
 - [WebKinder](https://www.webkinder.ch/)
 - [Web Updates KMU GmbH](https://wuk.ch/) - [@wuk_ch](https://twitter.com/wuk_ch)
 - [What we do](https://www.whatwedo.ch/)
