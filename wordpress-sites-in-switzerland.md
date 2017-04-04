@@ -61,7 +61,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Migros Bank Blog](https://blog.migrosbank.ch/de/)
 - [Raiffeisen Panorama Magazin](http://panorama-magazin.ch/)
 
-
 ## Food & Drinks
 - [1664 Bier](http://1664.ch/)
 - [BR Bier](https://www.br-bier.ch)
@@ -122,6 +121,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Music
 - [Dabu Fantastic](http://dabufantastic.ch/)
+- [Züri West](https://zueriwest.ch/)
 
 ## NGO
 - (Yours?)
@@ -201,6 +201,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Gmuetliberg](http://www.gmuetliberg.ch/)
 - [Hotelplan Blog](http://blog.hotelplan.ch/)
 - [Hotel Posthuis, Melchsee-Frutt](https://www.posthuis.ch/)
+- [Hotel Watt](https://hotelwatt.ch/)
 - [Kreaktiv Events](http://www.kreaktiv-events.ch/)
 - [Kuoni Group](https://kuoni.com/)
 - [Mutten](http://www.mutten.ch/)
