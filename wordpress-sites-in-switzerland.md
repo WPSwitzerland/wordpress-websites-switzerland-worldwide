@@ -15,10 +15,14 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Calanda](http://calanda.ch/)
 - [Donatsch & Partner](http://www.donatsch.ch/)
 - [Planix](http://planixteam.ch/)
+- [PRPA](http://prpa.ch/)
 - [S+B Baumanagement](http://www.s-b.swiss/)
 - [Sinzig + Partner](http://sinzig-partner.ch)
 - [Terza IFM](http://terzaifm.ch/)
 - [vonplon bautreuhand](https://www.bautreuhand.net/)
+
+## Art
+- [Via Helvetica](http://viahelvetica.com/)
 
 ## Auction
 - [Steiner & Zingg Onlinekunstauktionen](http://www.steiner-zingg.ch/)
@@ -92,6 +96,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## IT / Services
 - [aMIRA](https://www.algacom-amira.com/)
+- [Avantos](https://avantos.ch/)
 - [Data Dynamic AG](http://www.ddag.ch)
 - [Freshjobs](https://freshjobs.ch/)
 - [Switchie KB](https://switchie.ch/en/)
@@ -99,8 +104,12 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Jewelry
 - [Benevolenti](http://www.benevolenti.com)
+- [Frères Rochat](http://freres-rochat.com/)
 - [Goldschmiede Krauss](https://www.goldschmiedekrauss.ch/)
 - [Zoppi Juwelier](http://zoppijuwelier.ch/)
+
+## Magazine
+- [KOLT](http://kolt.ch/)
 
 ## Marketing
 - [Burson-Marsteller](http://www.burson-marsteller.ch/)
@@ -121,14 +130,21 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Music
 - [Dabu Fantastic](http://dabufantastic.ch/)
+- [Len Sander](http://www.lensander.com/)
 - [Züri West](https://zueriwest.ch/)
 
 ## NGO
-- (Yours?)
+- [Helpdesk Rotes Kreuz](http://helpdesk-roteskreuz.ch/)
+
+## Photography
+- [Boris Baldinger](https://www.boris-baldinger.com/)
+- [Michael Sieber](http://michaelsieber.com/)
+- [Lea Moser](https://leamoser.ch/)
 
 ## Portfolio
 - [Claudio Thoma](https://www.claudiothoma.ch/)
 - [MMXV](https://mmxv.io/)
+- [Mood Wood](http://moodwood.ch/)
 - [Yvonne Heller](https://yvonneheller.de/)
 
 ## Public
@@ -154,8 +170,8 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Real estate
 - [Müller & Müller Immobilien](http://www.mm-immob.ch/)
 - [Peach Property Group](http://www.peachproperty.com/)
-  - [Wollerau Park microsite](http://www.wolleraupark.ch/)
-  - [Peninsula Beach House microsite](http://beach-house.ch/)
+- [Wollerau Park microsite](http://www.wolleraupark.ch/)
+- [Peninsula Beach House microsite](http://beach-house.ch/)
 - [SBB Immobilien](http://www.sbbimmo.ch/) (private site)
 
 ## Retail
@@ -171,7 +187,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Small business
 - [Bitboard](http://bitboard.ch/)
 - [Blumenwerkstatt Interlaken](http://blumenwerkstatt.ch/)
-- [Boris Baldinger Photography](https://www.boris-baldinger.com/)
+- [Büro a + 0](http://buero-ao.ch)
 - [Kreuz Apotheke](http://www.kazag.ch)
 - [Lichtschnitt](http://www.lichtschnitt.ch/)
 - [Mayoris](https://www.mayoris.com/)
@@ -199,6 +215,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Travel and tourism
 - [Giardino Verde](http://www.giardino-verde.ch/)
 - [Gmuetliberg](http://www.gmuetliberg.ch/)
+- [Hotel Fusio](https://hotelfusio.ch/)
 - [Hotelplan Blog](http://blog.hotelplan.ch/)
 - [Hotel Posthuis, Melchsee-Frutt](https://www.posthuis.ch/)
 - [Hotel Watt](https://hotelwatt.ch/)
