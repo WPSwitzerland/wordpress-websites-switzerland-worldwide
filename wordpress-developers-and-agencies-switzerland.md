@@ -1,19 +1,26 @@
 # WordPress agencies and developers in Switzerland
 Please keep this list in alphabetic order. Only WordPress agencies, developers and freelance workers please!
 
+# Add your site/s
+Please submit changes and additions to this repository via Patch or Pull Request. Don't have a Github account, or you're not sure how to contribute? Just send an email to github@wpswitzerland.ch and we'll take it from there.
+
 ## Agencies
+- [Blueforce Internet Solutions](https://www.blueforce.ch/) - [@blueforce1](https://twitter.com/blueforce1)
 - [Comotive](https://www.comotive.ch/)
 - [cubetech](https://www.cubetech.ch/) - [@cubetech_ch](https://twitter.com/cubetech_ch)
 - [Guave Interactive](https://www.guaveinteractive.ch/)- [@guave_ia](https://twitter.com/guave_ia)
 - [Haptiq](https://haptiq.studio/)
 - [MIND](https://www.mind.ch/)
 - [miux](http://miux.ch/)
+- [OneByte AG](https://www.onebyte.ch)
 - [Openstream](https://www.openstream.ch/) - [@openstream](https://twitter.com/openstream)
 - [Refined Practice](https://www.refinedpractice.com/) - [@RefinedPractice](https://twitter.com/RefinedPractice)
-- [required](https://required.com/)
+- [required](https://required.com/) - [@wearerequired](https://twitter.com/wearerequired)
 - [Resort Studio](http://resortstudio.ch/digital/)
 - [Say Hello](https://sayhello.ch)
+- [someco](https://someco.ch)
 - [WebKinder](https://www.webkinder.ch/)
+- [Web Updates KMU GmbH](https://wuk.ch/) - [@wuk_ch](https://twitter.com/wuk_ch)
 - [What we do](https://www.whatwedo.ch/)
 - [Xeit](http://www.xeit.ch/)
 
@@ -30,5 +37,7 @@ Please keep this list in alphabetic order. Only WordPress agencies, developers a
 - [Pascal Birchler](https://pascalbirchler.com/) - [@swissspidy](https://twitter.com/swissspidy)
 - [Paul Ratcliffe](https://www.refinedpractice.com/) - [@Meester_Paul](https://twitter.com/Meester_Paul)
 - [Roger Burkhard](http://rogerburkhard.com/de/)
+- [Sandro Würmli](https://www.sandrowuermli.ch) - [@sandrowuermli](https://www.twitter.com/sandrowuermli)
 - [Silvan Hagen](http://silvanhagen.com/) - [@neverything](https://twitter.com/neverything)
+- [Stefan Murawski](https://wuk.ch/kontakt/team/) - [@stefanmurawski](https://twitter.com/stefanmurawski)
 - [Ulrich Pogson](http://ulrich.pogson.ch/) - [@grapplerulrich](https://twitter.com/grapplerulrich)

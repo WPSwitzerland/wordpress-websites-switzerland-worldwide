@@ -1,5 +1,11 @@
 # Outstanding websites around the world which are powered by WordPress
 
+# Add your site/s
+Please submit changes and additions to this repository via Patch or Pull Request. Don't have a Github account, or you're not sure how to contribute? Just send an email to github@wpswitzerland.ch and we'll take it from there.
+
+## Agencies
+- [XWP](https://xwp.co/)
+
 ## Designers
 - [Tobias van Schneider](http://www.vanschneider.com/blog/)
 
@@ -21,6 +27,10 @@
 - [New Yorker](http://www.newyorker.com/) (wordpress.com VIP)
 - [Quartz](http://qz.com/) (wordpress.com VIP)
 - [Reuters Blogs](http://blogs.reuters.com/us/)
+- [The Sun](https://www.thesun.co.uk/) (Leading UK tabloid newspaper)
+
+## Photography
+- [Nick Turpin](http://nickturpin.com/)
 
 ## Sports
 - [Rogers Cup, Tennis](http://www.rogerscup.com/)
@@ -30,4 +40,4 @@
 
 ## Webdesign/UI/UX
 - [Adobe](http://blogs.adobe.com/)
-- [SmashingMagazine](http://smashingmag.com/)
+- [SmashingMagazine](https://www.smashingmagazine.com/)

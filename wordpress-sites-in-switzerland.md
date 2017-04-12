@@ -1,5 +1,8 @@
 # Websites in Switzerland which are powered by WordPress
-Please do not add a WordPress agency's own website website here. Add them to [this file](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md). This site is for client/personal projects only.
+Please do not add WordPress agencies' own websites here. Add them to [this file](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md). This site is for client/personal projects only.
+
+# Add your site/s
+Please submit changes and additions to this repository via Patch or Pull Request. Don't have a Github account, or you're not sure how to contribute? Just send an email to github@wpswitzerland.ch and we'll take it from there.
 
 ## Agencies, not including web development agencies
 - [Glowing Blue](http://www.glowing.blue/)
@@ -61,7 +64,6 @@ Please do not add a WordPress agency's own website website here. Add them to [th
 - [Kuoni Group Annual Report 2015](https://2015.kuoni-report.com/en/)
 - [Migros Bank Blog](https://blog.migrosbank.ch/de/)
 - [Raiffeisen Panorama Magazin](http://panorama-magazin.ch/)
-
 
 ## Food & Drinks
 - [1664 Bier](http://1664.ch/)
@@ -129,6 +131,7 @@ Please do not add a WordPress agency's own website website here. Add them to [th
 ## Music
 - [Dabu Fantastic](http://dabufantastic.ch/)
 - [Len Sander](http://www.lensander.com/)
+- [Züri West](https://zueriwest.ch/)
 
 ## NGO
 - [Helpdesk Rotes Kreuz](http://helpdesk-roteskreuz.ch/)
@@ -215,6 +218,7 @@ Please do not add a WordPress agency's own website website here. Add them to [th
 - [Hotel Fusio](https://hotelfusio.ch/)
 - [Hotelplan Blog](http://blog.hotelplan.ch/)
 - [Hotel Posthuis, Melchsee-Frutt](https://www.posthuis.ch/)
+- [Hotel Watt](https://hotelwatt.ch/)
 - [Kreaktiv Events](http://www.kreaktiv-events.ch/)
 - [Kuoni Group](https://kuoni.com/)
 - [Mutten](http://www.mutten.ch/)
