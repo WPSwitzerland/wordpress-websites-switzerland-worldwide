@@ -41,6 +41,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Consultancy
 - [i-intelligence](http://www.i-intelligence.eu/)
 
+## Drugs
+- [rave it safe](https://www.raveitsafe.ch/)
+
 ## Education
 - [Academia Raetica](http://academiaraetica.ch/)
 - [Blindenschule Zollikofen](http://www.blindenschule.ch/)
@@ -50,9 +53,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Engineering
 - [Baulink](https://www.baulink.ch/)
 - [Balz Engineering AG](https://www.balzbau.ch)
-
-## Drugs
-- [rave it safe](https://www.raveitsafe.ch/)
 
 ## Entertainment
 - [Dabu Fantastic](http://dabufantastic.ch/)
