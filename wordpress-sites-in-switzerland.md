@@ -54,6 +54,12 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Drugs
 - [rave it safe](https://www.raveitsafe.ch/)
 
+## Entertainment
+- [Dabu Fantastic](http://dabufantastic.ch/)
+- [Flurin Caviezel](https://flurincaviezel.ch)
+- [Len Sander](http://www.lensander.com/)
+- [Züri West](https://zueriwest.ch/)
+
 ## Fashion
 - [Everydayadress](https://everydayadress.com/)
 - [Fashiongamble](http://www.fashiongamble.net/)
@@ -127,11 +133,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Auto Ricardo - Händlerportal](http://haendler.auto.ricardo.ch)
 - [Garage Hofmann](http://www.garage-hofmann.ch/)
 - [Moving Media Basel](https://mm-basel.ch/)
-
-## Music
-- [Dabu Fantastic](http://dabufantastic.ch/)
-- [Len Sander](http://www.lensander.com/)
-- [Züri West](https://zueriwest.ch/)
 
 ## NGO
 - [Helpdesk Rotes Kreuz](http://helpdesk-roteskreuz.ch/)
