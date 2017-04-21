@@ -91,6 +91,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Ärztlicher Bezirksverein Bern Regio](http://www.abvbernregio.ch/)
 - [CSS Insurance Magazin](https://blog.css.ch/)
 - [Gorilla by Schtifti Foundation](http://gorilla.ch/)
+- [Hirslanden Blog](https://blog.hirslanden.ch/)
 - [Praxis Gruber](http://www.praxisgruber.ch/)
 - [Stucki Orthopädie](http://www.stuckiortho.ch/)
 
