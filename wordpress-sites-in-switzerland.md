@@ -154,10 +154,10 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Homegate](https://blog.homegate.ch/)
 - [Müller & Müller Immobilien](http://www.mm-immob.ch/)
 - [Peach Property Group](http://www.peachproperty.com/)
-- [Walde & Partner](https://www.walde.ch/)
-- [Wollerau Park microsite](http://www.wolleraupark.ch/)
 - [Peninsula Beach House microsite](http://beach-house.ch/)
 - [SBB Immobilien](http://www.sbbimmo.ch/) (private site)
+- [Walde & Partner](https://www.walde.ch/)
+- [Wollerau Park microsite](http://www.wolleraupark.ch/)
 
 ## Public
 - [Alertswiss](https://alertswiss.ch/)
