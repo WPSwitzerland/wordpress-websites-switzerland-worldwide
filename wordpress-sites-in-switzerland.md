@@ -91,6 +91,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Ärztlicher Bezirksverein Bern Regio](http://www.abvbernregio.ch/)
 - [CSS Insurance Magazin](https://blog.css.ch/)
 - [Gorilla by Schtifti Foundation](http://gorilla.ch/)
+- [Hirslanden Blog](https://blog.hirslanden.ch/)
 - [Praxis Gruber](http://www.praxisgruber.ch/)
 - [Stucki Orthopädie](http://www.stuckiortho.ch/)
 
@@ -148,6 +149,16 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Mood Wood](http://moodwood.ch/)
 - [Yvonne Heller](https://yvonneheller.de/)
 
+## Property market
+- [Andermatt Swissalps](http://www.andermatt-swissalps.ch/)
+- [Homegate](https://blog.homegate.ch/)
+- [Müller & Müller Immobilien](http://www.mm-immob.ch/)
+- [Peach Property Group](http://www.peachproperty.com/)
+- [Peninsula Beach House microsite](http://beach-house.ch/)
+- [SBB Immobilien](http://www.sbbimmo.ch/) (private site)
+- [Walde & Partner](https://www.walde.ch/)
+- [Wollerau Park microsite](http://www.wolleraupark.ch/)
+
 ## Public
 - [Alertswiss](https://alertswiss.ch/)
 - [Bundesamt für Energie - watt d'or 4 all](http://www.wattdor4all.ch/)
@@ -167,13 +178,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Grischa Personal](http://grischapersonal.ch/)
 - [Homegate InnoLab](http://innolab.homegate.ch/)
 - [NZZ Business Report](http://gb.nzz.ch/)
-
-## Real estate
-- [Müller & Müller Immobilien](http://www.mm-immob.ch/)
-- [Peach Property Group](http://www.peachproperty.com/)
-- [Wollerau Park microsite](http://www.wolleraupark.ch/)
-- [Peninsula Beach House microsite](http://beach-house.ch/)
-- [SBB Immobilien](http://www.sbbimmo.ch/) (private site)
 
 ## Retail
 - [Schuhmacherei Sahli](http://www.schuhmacherei-sahli.ch/)
