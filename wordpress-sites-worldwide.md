@@ -25,6 +25,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [CNN Blogs](http://edition.cnn.com/exchange/blogs/index.html) (wordpress.com VIP)
 - [FiveThirthyEight](http://fivethirtyeight.com/) (wordpress.com VIP)
 - [New Yorker](http://www.newyorker.com/) (wordpress.com VIP)
+- [Quanta Magazine](https://www.quantamagazine.org/)
 - [Quartz](http://qz.com/) (wordpress.com VIP)
 - [Reuters Blogs](http://blogs.reuters.com/us/)
 - [The Sun](https://www.thesun.co.uk/) (Leading UK tabloid newspaper)
