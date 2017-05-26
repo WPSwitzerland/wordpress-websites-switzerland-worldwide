@@ -76,7 +76,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [BR Bier](https://www.br-bier.ch)
 - [Das Trüffelschwein](http://www.dastrueffelschwein.ch/)
 - [foodaktuell.ch](http://www.foodaktuell.ch/)
-- [foodwardjobs](http://foodwardjobs.com/)
 - [Grotto Ticino](http://www.grotto-ticino.ch/)
 - [Lunchbag](https://lunchbag.ch/)
 - [Natur Konkret](http://natur-konkret.ch/)
@@ -105,7 +104,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [aMIRA](https://www.algacom-amira.com/)
 - [Avantos](https://avantos.ch/)
 - [Data Dynamic AG](http://www.ddag.ch)
-- [Freshjobs](https://freshjobs.ch/)
 - [Switchie KB](https://switchie.ch/en/)
 - [switchplus](https://switchplus.ch/en/)
 
@@ -114,6 +112,11 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Frères Rochat](http://freres-rochat.com/)
 - [Goldschmiede Krauss](https://www.goldschmiedekrauss.ch/)
 - [Zoppi Juwelier](http://zoppijuwelier.ch/)
+
+## Jobs
+- [foodwardjobs](http://foodwardjobs.com/)
+- [Freshjobs](https://freshjobs.ch/)
+- [Medienjobs](http://medienjobs.ch/)
 
 ## Magazine
 - [KOLT](http://kolt.ch/)
