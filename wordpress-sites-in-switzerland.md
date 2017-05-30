@@ -67,6 +67,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [The Fashion Fraction](http://www.thefashionfraction.com/)
 
 ## Festivals
+- [Blue Balls](http://blueballs.ch/)
 - [Openair St. Gallen](http://www.openairsg.ch/)
 - [Zürich Openair](https://zurichopenair.ch/)
 
