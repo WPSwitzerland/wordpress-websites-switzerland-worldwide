@@ -68,6 +68,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Festivals
 - [Blue Balls](http://blueballs.ch/)
+- [Openair Frauenfeld](http://www.openair-frauenfeld.ch/)
 - [Openair St. Gallen](http://www.openairsg.ch/)
 - [Zürich Openair](https://zurichopenair.ch/)
 
