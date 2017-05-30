@@ -66,6 +66,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Thatgirlnamedmaya](http://thatgirlnamedmaya.com/)
 - [The Fashion Fraction](http://www.thefashionfraction.com/)
 
+## Festivals
+- [Openair St. Gallen](http://www.openairsg.ch/)
+
 ## Finance
 - [Kuoni Group Annual Report 2015](https://2015.kuoni-report.com/en/)
 - [Migros Bank Blog](https://blog.migrosbank.ch/de/)
