@@ -68,6 +68,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Festivals
 - [Openair St. Gallen](http://www.openairsg.ch/)
+- [Zürich Openair](https://zurichopenair.ch/)
 
 ## Finance
 - [Kuoni Group Annual Report 2015](https://2015.kuoni-report.com/en/)
