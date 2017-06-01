@@ -22,6 +22,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [vonplon bautreuhand](https://www.bautreuhand.net/)
 
 ## Art
+- [Sinn-Suche](https://sinn-suche.ch/)
 - [Via Helvetica](http://viahelvetica.com/)
 
 ## Auction
