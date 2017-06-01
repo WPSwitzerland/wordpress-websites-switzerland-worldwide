@@ -23,6 +23,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Art
 - [Via Helvetica](http://viahelvetica.com/)
+- [Sinn-Suche.ch](https://sinn-suche.ch/)
 
 ## Auction
 - [Steiner & Zingg Onlinekunstauktionen](http://www.steiner-zingg.ch/)
