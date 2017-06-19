@@ -42,6 +42,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Consultancy
 - [i-intelligence](http://www.i-intelligence.eu/)
 
+## Directory
+- [The Ipsum Collection](https://theipsumcollection.com/)
+
 ## Drugs
 - [rave it safe](https://www.raveitsafe.ch/)
 

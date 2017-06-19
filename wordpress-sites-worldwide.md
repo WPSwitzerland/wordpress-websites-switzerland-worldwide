@@ -4,6 +4,7 @@
 Please submit changes and additions to this repository via Patch or Pull Request. Don't have a Github account, or you're not sure how to contribute? Just send an email to github@wpswitzerland.ch and we'll take it from there.
 
 ## Agencies
+- [Barrel](https://www.barrelny.com/)
 - [XWP](https://xwp.co/)
 
 ## Designers
@@ -21,11 +22,14 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Obama Foundation](https://www.obama.org/)
 - [Jacobs Foundation](http://jacobsfoundation.org/)
 
+## Magazine
+- [Aestetics of Joy](http://www.aestheticsofjoy.com/)
+- [Quanta Magazine](https://www.quantamagazine.org/)
+
 ## Media / News
 - [CNN Blogs](http://edition.cnn.com/exchange/blogs/index.html) (wordpress.com VIP)
 - [FiveThirthyEight](http://fivethirtyeight.com/) (wordpress.com VIP)
 - [New Yorker](http://www.newyorker.com/) (wordpress.com VIP)
-- [Quanta Magazine](https://www.quantamagazine.org/)
 - [Quartz](http://qz.com/) (wordpress.com VIP)
 - [Reuters Blogs](http://blogs.reuters.com/us/)
 - [The Sun](https://www.thesun.co.uk/) (Leading UK tabloid newspaper)
