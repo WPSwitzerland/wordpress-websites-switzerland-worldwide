@@ -154,6 +154,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Photography
 - [Boris Baldinger](https://www.boris-baldinger.com/)
 - [Michael Sieber](http://michaelsieber.com/)
+- [Nicole Strebel](http://www.enolic.ch/)
 - [Lea Moser](https://leamoser.ch/)
 
 ## Portfolio
