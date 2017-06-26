@@ -90,6 +90,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Lunchbag](https://lunchbag.ch/)
 - [Natur Konkret](http://natur-konkret.ch/)
 - [Schweizerische Gesellschaft für Ernährung](http://www.sge-ssn.ch/)
+- [Tuchlaube](http://tuchlaubeaarau.ch/)
 
 ## Foundation
 - [CONTACT Arbeit](http://www.contact-arbeit.ch/)
