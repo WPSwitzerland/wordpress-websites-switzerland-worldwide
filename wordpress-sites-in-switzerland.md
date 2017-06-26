@@ -90,6 +90,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Lunchbag](https://lunchbag.ch/)
 - [Natur Konkret](http://natur-konkret.ch/)
 - [Schweizerische Gesellschaft für Ernährung](http://www.sge-ssn.ch/)
+- [Tuchlaube](http://tuchlaubeaarau.ch/)
 
 ## Foundation
 - [CONTACT Arbeit](http://www.contact-arbeit.ch/)
@@ -201,6 +202,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Service provider
 - [Flims Electric](http://www.flimselectric.ch/)
+- [KVA Buchs Aargau](http://kva-buchs.ch/)
 - [Swisscom SME Magazin](https://magazin.swisscom.ch/)
 
 ## Small business
@@ -219,6 +221,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Sport
 - [Dominique Gisin](http://dominiquegisin.ch/)
 - [FB-Riders](http://www.fbriders.ch/)
+- [FC Aarau](https://fcaarau.ch/)
 - [Lausanne HC](http://www.lausannehc.ch/)
 - [piranha chur](http://www.piranha.ch/)
 - [Mobilesport](http://www.mobilesport.ch/)
