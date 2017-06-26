@@ -202,6 +202,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Service provider
 - [Flims Electric](http://www.flimselectric.ch/)
+- [KVA Buchs Aargau](http://kva-buchs.ch/)
 - [Swisscom SME Magazin](https://magazin.swisscom.ch/)
 
 ## Small business
