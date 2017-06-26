@@ -219,6 +219,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Sport
 - [Dominique Gisin](http://dominiquegisin.ch/)
 - [FB-Riders](http://www.fbriders.ch/)
+- [FC Aarau](https://fcaarau.ch/)
 - [Lausanne HC](http://www.lausannehc.ch/)
 - [piranha chur](http://www.piranha.ch/)
 - [Mobilesport](http://www.mobilesport.ch/)
