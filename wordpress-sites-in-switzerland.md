@@ -7,6 +7,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Agencies, not including web development agencies
 - [Glowing Blue](http://www.glowing.blue/)
 - [NPO4Cloud](https://www.npo4cloud.ch/)
+- [Process Group](http://process-group.com/)
 - [Republica Live](http://www.republica-live.ch/)
 - ([Web development agencies are here](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md).)
 
