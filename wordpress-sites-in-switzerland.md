@@ -19,6 +19,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [PRPA](http://prpa.ch/)
 - [S+B Baumanagement](http://www.s-b.swiss/)
 - [Sinzig + Partner](http://sinzig-partner.ch)
+- [Tarcisi Maissen SA](https://maissen-sa.ch/)
 - [Terza IFM](http://terzaifm.ch/)
 - [vonplon bautreuhand](https://www.bautreuhand.net/)
 
@@ -54,6 +55,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Blindenschule Zollikofen](http://www.blindenschule.ch/)
 - [foodward MAS Excellence in Food](http://foodward.ch/)
 - [Juventus Schulen](http://juventus.ch/)
+- [Technische Berufsschule Zürich](https://tbz.ch/)
 
 ## Engineering
 - [Baulink](https://www.baulink.ch/)
@@ -88,10 +90,13 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Das Trüffelschwein](http://www.dastrueffelschwein.ch/)
 - [foodaktuell.ch](http://www.foodaktuell.ch/)
 - [Grotto Ticino](http://www.grotto-ticino.ch/)
+- [Kindschi Destillerie](https://kindschi.ch/)
+- [Lipp Destillerie](https://lipp-destillerie.ch/)
 - [Lunchbag](https://lunchbag.ch/)
 - [Natur Konkret](http://natur-konkret.ch/)
 - [Schweizerische Gesellschaft für Ernährung](http://www.sge-ssn.ch/)
 - [Tuchlaube](http://tuchlaubeaarau.ch/)
+- [Werkstatt Chur](http://werkstattchur.ch/)
 
 ## Foundation
 - [CONTACT Arbeit](http://www.contact-arbeit.ch/)
@@ -104,6 +109,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Gorilla by Schtifti Foundation](http://gorilla.ch/)
 - [Hirslanden Blog](https://blog.hirslanden.ch/)
 - [Praxis Gruber](http://www.praxisgruber.ch/)
+- [Radiologie Südost](https://radiologie-suedost.ch/)
 - [Stucki Orthopädie](http://www.stuckiortho.ch/)
 
 ## Human Resources
@@ -135,6 +141,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Marketing
 - [Burson-Marsteller](http://www.burson-marsteller.ch/)
+- [CLUS Werbeagentur](https://clus.ch/)
 - [Corporate Dialog](https://corporate-dialog.ch/)
 - [Marie-Christine Schindler](https://www.mcschindler.com/)
 
@@ -204,6 +211,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Service provider
 - [Flims Electric](http://www.flimselectric.ch/)
+- [IBC Energie Wasser Chur](https://ibc-chur.ch)
 - [KVA Buchs Aargau](http://kva-buchs.ch/)
 - [Swisscom SME Magazin](https://magazin.swisscom.ch/)
 
@@ -230,6 +238,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [SCL Tigers](http://www.scltigers.ch/)
 - [Sportamt der Stadt Bern](http://www.sportamt-bern.ch/)
 - [Stan Wawrinka](http://www.stanwawrinka.com/)
+- [Swiss Nordic Center](https://swiss-nordic-center.ch/)
 - [Swiss Paralympic](http://www.swissparalympic.ch/)
 - [UHC Dietlikon](http://www.uhcdietlikon.ch/)
 
@@ -242,6 +251,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Hotel Fusio](https://hotelfusio.ch/)
 - [Hotelplan Blog](http://blog.hotelplan.ch/)
 - [Hotel Posthuis, Melchsee-Frutt](https://www.posthuis.ch/)
+- [Hotel Suvretta House](https://suvrettahouse.ch)
 - [Hotel Watt](https://hotelwatt.ch/)
 - [Kreaktiv Events](http://www.kreaktiv-events.ch/)
 - [Kuoni Group](https://kuoni.com/)
