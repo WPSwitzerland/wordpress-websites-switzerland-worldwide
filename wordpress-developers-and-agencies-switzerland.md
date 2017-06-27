@@ -6,6 +6,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Agencies
 - [Blueforce Internet Solutions](https://www.blueforce.ch/) - [@blueforce1](https://twitter.com/blueforce1)
+- [CLUS Werbeagentur](https://clus.ch/) - [@clus_ch](https://twitter.com/clus_ch)
 - [Comotive](https://www.comotive.ch/)
 - [cubetech](https://www.cubetech.ch/) - [@cubetech_ch](https://twitter.com/cubetech_ch)
 - [flake GmbH](https://flake.ch/)
@@ -31,6 +32,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Claudio Rimann](http://claudiorimann.ch/) - [@pandulu](https://twitter.com/pandulu)
 - [Claudio Schwarz](https://www.claudioschwarz.com/) - [@purzlbaum](https://twitter.com/purzlbaum)
 - [Karin Christen](http://karinchristen.com/) - [@karinchristen](https://twitter.com/karinchristen)
+- [Kevin Walker](http://kevinwalker.ch/) - [@walkeezy](https://twitter.com/walkeezy)
 - [Marc Wieland](http://www.marcwieland.ch/) - [@marcwieland95](https://twitter.com/marcwieland95)
 - [Mark Howells-Mead](https://permanenttourist.ch/topic/wordpress/) - [@markwebch](https://twitter.com/markwebch)
 - [Martin Steiner](https://profiles.wordpress.org/webstooni) - [@stooni](https://twitter.com/stooni)
