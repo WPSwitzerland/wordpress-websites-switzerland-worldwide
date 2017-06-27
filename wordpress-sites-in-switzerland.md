@@ -143,7 +143,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Finanz und Wirtschaft](http://www.fuw.ch/)
 - [NZZ Product Plattform](https://abo.nzz.ch/)
 - [SRF Media Room](http://www.srf.ch/medien/)
-- [Tageswoche](https://tageswoche.ch/) ([Bericht zur Wechsel](https://tageswoche.ch/form/editorial/das-ist-die-neue-tageswoche/)
+- [Tageswoche](https://tageswoche.ch/) ([Report about the change to Wordpress](https://tageswoche.ch/form/editorial/das-ist-die-neue-tageswoche/))
 - [Tele Basel](https://telebasel.ch/)
 
 ## Mobility
