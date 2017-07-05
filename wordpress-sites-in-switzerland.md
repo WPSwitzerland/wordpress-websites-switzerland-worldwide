@@ -148,6 +148,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Media
 - [Der Bund](http://www.derbund.ch/blogs/) (various individual blogs)
 - [Finanz und Wirtschaft](http://www.fuw.ch/)
+- [Medienwoche](http://medienwoche.ch/)
 - [NZZ Product Plattform](https://abo.nzz.ch/)
 - [SRF Media Room](http://www.srf.ch/medien/)
 - [Tageswoche](https://tageswoche.ch/) ([Report about the change to WordPress](https://tageswoche.ch/form/editorial/das-ist-die-neue-tageswoche/))
