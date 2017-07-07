@@ -151,11 +151,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Medienwoche](http://medienwoche.ch/)
 - [NZZ Product Plattform](https://abo.nzz.ch/)
 - [SRF Media Room](http://www.srf.ch/medien/)
-<<<<<<< HEAD
 - [Tageswoche](https://tageswoche.ch/) ([Report about the change to WordPress](https://tageswoche.ch/form/editorial/das-ist-die-neue-tageswoche/))
-=======
-- [TagesWoche](https://tageswoche.ch/)
->>>>>>> origin/master
 - [Tele Basel](https://telebasel.ch/)
 
 ## Mobility
