@@ -7,6 +7,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Barrel](https://www.barrelny.com/)
 - [XWP](https://xwp.co/)
 
+## Cars
+- [Mercedes Benz](https://www.mercedes-benz.com/)
+
 ## Designers
 - [Tobias van Schneider](http://www.vanschneider.com/blog/)
 
