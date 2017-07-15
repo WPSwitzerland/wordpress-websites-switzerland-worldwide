@@ -256,6 +256,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Hotel Watt](https://hotelwatt.ch/)
 - [Kreaktiv Events](http://www.kreaktiv-events.ch/)
 - [Kuoni Group](https://kuoni.com/)
+- [Melchsee-Frutt](http://www.melchsee-frutt.ch/)
 - [Mutten](http://www.mutten.ch/)
 - [Uetliberg](http://www.uetliberg.ch/)
 - [Uto Kulm](http://www.utokulm.ch/)
