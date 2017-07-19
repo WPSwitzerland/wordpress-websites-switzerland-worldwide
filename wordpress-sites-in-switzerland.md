@@ -9,6 +9,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [NPO4Cloud](https://www.npo4cloud.ch/)
 - [Process Group](http://process-group.com/)
 - [Republica Live](http://www.republica-live.ch/)
+- [Zühlke Blog](https://www.zuehlke.com/blog/)
 - ([Web development agencies are here](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md).)
 
 ## Architecture
@@ -256,7 +257,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Hotel Watt](https://hotelwatt.ch/)
 - [Kreaktiv Events](http://www.kreaktiv-events.ch/)
 - [Kuoni Group](https://kuoni.com/)
+- [Melchsee-Frutt](http://www.melchsee-frutt.ch/)
 - [Mutten](http://www.mutten.ch/)
+- [The Dolder Grand](https://www.thedoldergrand.com/)
 - [Uetliberg](http://www.uetliberg.ch/)
 - [Uto Kulm](http://www.utokulm.ch/)
 
