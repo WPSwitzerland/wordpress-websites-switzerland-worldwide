@@ -10,8 +10,8 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Cars
 - [Mercedes Benz](https://www.mercedes-benz.com/)
 
-## Commedians
-- [Russel Brand](https://www.russellbrand.com/)
+## Comedians
+- [Russell Brand](https://www.russellbrand.com/)
 
 ## Designers
 - [Tobias van Schneider](http://www.vanschneider.com/blog/)
