@@ -159,6 +159,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Auto Ricardo - Händlerportal](http://haendler.auto.ricardo.ch)
 - [Garage Hofmann](http://www.garage-hofmann.ch/)
 - [Moving Media Basel](https://mm-basel.ch/)
+- [vbzonline.ch](https://vbzonline.ch/)
 
 ## NGO
 - [Helpdesk Rotes Kreuz](http://helpdesk-roteskreuz.ch/)
