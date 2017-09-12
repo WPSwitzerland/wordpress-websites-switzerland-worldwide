@@ -31,6 +31,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Auction
 - [Steiner & Zingg Onlinekunstauktionen](http://www.steiner-zingg.ch/)
 
+## Banking
+- [Bank SLM](https://www.bankslm.ch/)
+
 ## Blog
 - [Karrierefrau Schweiz](https://www.karrierefrauschweiz.ch/)
 - [Sunnechind](http://sunnechind.ch/)
@@ -44,6 +47,10 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Consultancy
 - [i-intelligence](http://www.i-intelligence.eu/)
+- [Process Partner](https://www.processpartner.ch/)
+
+## Detective
+- [GRAYLYNX](https://www.graylynx.ch/)
 
 ## Directory
 - [The Ipsum Collection](https://theipsumcollection.com/)
@@ -84,6 +91,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Kuoni Group Annual Report 2015](https://2015.kuoni-report.com/en/)
 - [Migros Bank Blog](https://blog.migrosbank.ch/de/)
 - [Raiffeisen Panorama Magazin](http://panorama-magazin.ch/)
+- [Tilbago](https://www.tilbago.ch/)
 
 ## Food & Drinks
 - [1664 Bier](http://1664.ch/)
@@ -107,6 +115,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Health
 - [Ärztlicher Bezirksverein Bern Regio](http://www.abvbernregio.ch/)
 - [CSS Insurance Magazin](https://blog.css.ch/)
+- [Galenos](https://www.galenos.ch)
 - [Gorilla by Schtifti Foundation](http://gorilla.ch/)
 - [Hirslanden Blog](https://blog.hirslanden.ch/)
 - [Praxis Gruber](http://www.praxisgruber.ch/)
@@ -170,6 +179,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Nicole Strebel](http://www.enolic.ch/)
 - [Lea Moser](https://leamoser.ch/)
 
+## Politics
+- [Digitale Nachhaltigkeit](https://www.digitale-nachhaltigkeit.ch/)
+
 ## Portfolio
 - [Claudio Thoma](https://www.claudiothoma.ch/)
 - [MMXV](https://mmxv.io/)
@@ -208,6 +220,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Retail
 - [Schuhmacherei Sahli](http://www.schuhmacherei-sahli.ch/)
+- [PostParc](https://www.postparc.ch/)
 
 ## Robotics
 - [Swiss Robotics Industry Day](http://swissroboticsindustry.ch/)
