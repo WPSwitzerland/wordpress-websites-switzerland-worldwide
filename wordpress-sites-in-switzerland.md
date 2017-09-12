@@ -219,8 +219,8 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [NZZ Business Report](http://gb.nzz.ch/)
 
 ## Retail
-- [Schuhmacherei Sahli](http://www.schuhmacherei-sahli.ch/)
 - [PostParc](https://www.postparc.ch/)
+- [Schuhmacherei Sahli](http://www.schuhmacherei-sahli.ch/)
 
 ## Robotics
 - [Swiss Robotics Industry Day](http://swissroboticsindustry.ch/)
