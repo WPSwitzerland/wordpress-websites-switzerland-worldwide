@@ -20,8 +20,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [TED Blog](http://blog.ted.com/) (wordpress.com VIP)
 
 ## Famous people
-- [Alanis Morissette](http://alanis.com/)
-- [Beyoncé](http://www.beyonce.com/)
 - [Michelle Hunziker](http://www.michellehunziker.it/en)
 
 ## Foundations
@@ -39,6 +37,11 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Quartz](http://qz.com/) (wordpress.com VIP)
 - [Reuters Blogs](http://blogs.reuters.com/us/)
 - [The Sun](https://www.thesun.co.uk/) (Leading UK tabloid newspaper)
+
+## Music
+- [Alanis Morissette](http://alanis.com/)
+- [Alicia Keys](http://aliciakeys.com/)
+- [Beyoncé](http://www.beyonce.com/)
 
 ## Photography
 - [Nick Turpin](http://nickturpin.com/)
