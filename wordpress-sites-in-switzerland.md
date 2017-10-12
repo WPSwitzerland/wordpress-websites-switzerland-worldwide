@@ -273,6 +273,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Kuoni Group](https://kuoni.com/)
 - [Melchsee-Frutt](http://www.melchsee-frutt.ch/)
 - [Mutten](http://www.mutten.ch/)
+- [Säntispark](https://saentispark-freizeit.ch/)
 - [The Dolder Grand](https://www.thedoldergrand.com/)
 - [Uetliberg](http://www.uetliberg.ch/)
 - [Uto Kulm](http://www.utokulm.ch/)
