@@ -25,3 +25,11 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 - WordPress Meetup Zürich [on Meetup.com](https://www.meetup.com/WordPress-Zurich/)
 - Zürich WooCommerce Meetup [on Meetup.com](https://www.meetup.com/Zurich-WooCommerce-Meetup/)
+
+#### Sion
+
+- WordPress Meetup Sion [on Meetup.com](https://www.meetup.com/Sion-WordPress-Meetup/)
+
+#### Monthey
+
+- WordPress Meetup Monthey [on Meetup.com](https://www.meetup.com/Monthey-WordPress-Meetup/)
