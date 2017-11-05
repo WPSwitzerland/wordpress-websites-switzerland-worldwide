@@ -16,10 +16,17 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 - WordPress Meetup Geneva [on Meetup.com](https://www.meetup.com/geneva-wordpress/) / [website](https://wpgva.ch/)
 
-
 #### Luzern
 
 - WordPress Meetup Luzern [on Meetup.com](https://www.meetup.com/WordPress-Meetup-Luzern-by-webkinder-ch/)
+
+#### Monthey
+
+- WordPress Meetup Monthey [on Meetup.com](https://www.meetup.com/Monthey-WordPress-Meetup/)
+
+#### Sion
+
+- WordPress Meetup Sion [on Meetup.com](https://www.meetup.com/Sion-WordPress-Meetup/)
 
 #### Zürich
 
