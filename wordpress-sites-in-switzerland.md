@@ -111,7 +111,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [CONTACT Arbeit](http://www.contact-arbeit.ch/)
 - [CONTACT - Stiftung für Suchthilfe](http://www.contact-suchthilfe.ch/)
 - [Schtifti Foundation](http://schtifti.ch/)
-- [Stanley Thomas Johnson Stiftung](http://www.johnsonstiftung.ch/)
 
 ## Health
 - [Ärztlicher Bezirksverein Bern Regio](http://www.abvbernregio.ch/)
