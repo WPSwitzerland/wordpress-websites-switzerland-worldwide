@@ -52,6 +52,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Tech
 - [TechCrunch](http://techcrunch.com/) (wordpress.com VIP)
 
+## University
+- [University of Bozen-Bolzano](https://www.unibz.it/)
+
 ## Webdesign/UI/UX
 - [Adobe](http://blogs.adobe.com/)
 - [SmashingMagazine](https://www.smashingmagazine.com/)
