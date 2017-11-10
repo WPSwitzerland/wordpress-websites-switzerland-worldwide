@@ -159,6 +159,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Der Bund](http://www.derbund.ch/blogs/) (various individual blogs)
 - [Finanz und Wirtschaft](http://www.fuw.ch/)
 - [Medienwoche](http://medienwoche.ch/)
+- [NZZ Mediengruppe](https://www.nzzmediengruppe.ch/)
 - [NZZ Product Plattform](https://abo.nzz.ch/)
 - [Presserat](https://presserat.ch/)
 - [SRF Media Room](http://www.srf.ch/medien/)
