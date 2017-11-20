@@ -77,6 +77,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Events
 - [Digitaltag](https://digitaltag.swiss/)
+- [TEDxZurich](http://tedxzurich.com/)
 
 ## Fashion
 - [Everydayadress](https://everydayadress.com/)
