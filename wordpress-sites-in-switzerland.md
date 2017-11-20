@@ -75,6 +75,10 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Len Sander](http://www.lensander.com/)
 - [Züri West](https://zueriwest.ch/)
 
+## Events
+- [Digitaltag](https://digitaltag.swiss/)
+- [TEDxZurich](http://tedxzurich.com/)
+
 ## Fashion
 - [Everydayadress](https://everydayadress.com/)
 - [Fashiongamble](http://www.fashiongamble.net/)
