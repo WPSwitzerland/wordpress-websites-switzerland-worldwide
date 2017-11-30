@@ -5,6 +5,7 @@ Please do not add WordPress agencies' own websites here. Add them to [this file]
 Please submit changes and additions to this repository via Patch or Pull Request. Don't have a Github account, or you're not sure how to contribute? Just send an email to github@wpswitzerland.ch and we'll take it from there.
 
 ## Agencies, not including web development agencies
+- [Bernet PR](https://bernet.ch/)
 - [Glowing Blue](http://www.glowing.blue/)
 - [NPO4Cloud](https://www.npo4cloud.ch/)
 - [Process Group](http://process-group.com/)
