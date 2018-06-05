@@ -37,6 +37,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Blog
 - [Karrierefrau Schweiz](https://www.karrierefrauschweiz.ch/)
+- [Palms and Mountains](https://palmsandmountains.ch)
 - [Sunnechind](http://sunnechind.ch/)
 
 ## Coaching
@@ -255,6 +256,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Dominique Gisin](http://dominiquegisin.ch/)
 - [FB-Riders](http://www.fbriders.ch/)
 - [FC Aarau](https://fcaarau.ch/)
+- [Kloten-Dietlikon Jets](https://jets.ch)
 - [Lausanne HC](http://www.lausannehc.ch/)
 - [piranha chur](http://www.piranha.ch/)
 - [Mobilesport](http://www.mobilesport.ch/)
@@ -263,7 +265,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Stan Wawrinka](http://www.stanwawrinka.com/)
 - [Swiss Nordic Center](https://swiss-nordic-center.ch/)
 - [Swiss Paralympic](http://www.swissparalympic.ch/)
-- [UHC Dietlikon](http://www.uhcdietlikon.ch/)
 
 ## Translation
 - [Mark O'Neil Translations](https://markoneil.ch/)
