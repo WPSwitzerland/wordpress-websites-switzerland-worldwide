@@ -14,7 +14,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - ([Web development agencies are here](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md).)
 
 ## Architecture
-- [Bearth & Deplazes](http://bearth-deplazes.ch/)
 - [Calanda](http://calanda.ch/)
 - [Donatsch & Partner](http://www.donatsch.ch/)
 - [Planix](http://planixteam.ch/)
