@@ -202,7 +202,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Public
 - [Alertswiss](https://alertswiss.ch/)
-- [Bundesamt für Energie - watt d'or 4 all](http://www.wattdor4all.ch/)
 - [Cath. church of canton Zurich](http://blog.zhkath.ch/)
 - [ENSI](http://ensi.ch)
 - [KMU Wahlkandidaten 2015](http://www.kmu-wahlkandidaten.ch)
