@@ -22,7 +22,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [S+B Baumanagement](http://www.s-b.swiss/)
 - [Sinzig + Partner](http://sinzig-partner.ch)
 - [Tarcisi Maissen SA](https://maissen-sa.ch/)
-- [Terza IFM](http://terzaifm.ch/)
 - [vonplon bautreuhand](https://www.bautreuhand.net/)
 
 ## Art
