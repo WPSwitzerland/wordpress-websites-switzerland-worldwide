@@ -81,7 +81,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Fashion
 - [Everydayadress](https://everydayadress.com/)
-- [Fashiongamble](http://www.fashiongamble.net/)
 - [Thatgirlnamedmaya](http://thatgirlnamedmaya.com/)
 - [The Fashion Fraction](http://www.thefashionfraction.com/)
 
