@@ -93,7 +93,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Finance
 - [Kuoni Group Annual Report 2015](https://2015.kuoni-report.com/en/)
 - [Migros Bank Blog](https://blog.migrosbank.ch/de/)
-- [Raiffeisen Panorama Magazin](http://panorama-magazin.ch/)
 - [Tilbago](https://www.tilbago.ch/)
 
 ## Food & Drinks
