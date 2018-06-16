@@ -14,7 +14,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - ([Web development agencies are here](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md).)
 
 ## Architecture
-- [Bearth & Deplazes](http://bearth-deplazes.ch/)
 - [Calanda](http://calanda.ch/)
 - [Donatsch & Partner](http://www.donatsch.ch/)
 - [Planix](http://planixteam.ch/)
@@ -22,7 +21,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [S+B Baumanagement](http://www.s-b.swiss/)
 - [Sinzig + Partner](http://sinzig-partner.ch)
 - [Tarcisi Maissen SA](https://maissen-sa.ch/)
-- [Terza IFM](http://terzaifm.ch/)
 - [vonplon bautreuhand](https://www.bautreuhand.net/)
 
 ## Art
@@ -83,7 +81,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Fashion
 - [Everydayadress](https://everydayadress.com/)
-- [Fashiongamble](http://www.fashiongamble.net/)
 - [Thatgirlnamedmaya](http://thatgirlnamedmaya.com/)
 - [The Fashion Fraction](http://www.thefashionfraction.com/)
 
@@ -96,13 +93,11 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Finance
 - [Kuoni Group Annual Report 2015](https://2015.kuoni-report.com/en/)
 - [Migros Bank Blog](https://blog.migrosbank.ch/de/)
-- [Raiffeisen Panorama Magazin](http://panorama-magazin.ch/)
 - [Tilbago](https://www.tilbago.ch/)
 
 ## Food & Drinks
 - [1664 Bier](http://1664.ch/)
 - [BR Bier](https://www.br-bier.ch)
-- [Das Trüffelschwein](http://www.dastrueffelschwein.ch/)
 - [foodaktuell.ch](http://www.foodaktuell.ch/)
 - [Grotto Ticino](http://www.grotto-ticino.ch/)
 - [Kindschi Destillerie](https://kindschi.ch/)
@@ -197,7 +192,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Yvonne Heller](https://yvonneheller.de/)
 
 ## Property market
-- [Andermatt Swissalps](http://www.andermatt-swissalps.ch/)
 - [Homegate](https://blog.homegate.ch/)
 - [Müller & Müller Immobilien](http://www.mm-immob.ch/)
 - [Peach Property Group](http://www.peachproperty.com/)
@@ -208,15 +202,12 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Public
 - [Alertswiss](https://alertswiss.ch/)
-- [Bundesamt für Energie - watt d'or 4 all](http://www.wattdor4all.ch/)
 - [Cath. church of canton Zurich](http://blog.zhkath.ch/)
 - [ENSI](http://ensi.ch)
-- [KMU Wahlkandidaten 2015](http://www.kmu-wahlkandidaten.ch)
 - [ON-X](http://www.on-x.ch/)
 - [Ortsplanungsrevision Thun](http://www.ortsplanungsrevisionthun.ch/)
 - [Pro Helvetia - Swiss Arts Council](https://prohelvetia.ch/en/)
 - [SBB Cargo Blog](http://blog.sbbcargo.com/)
-- [SBB Media Relations](https://sbb-medien.ch/)
 - [SBB Stories](http://blog.sbb.ch/)
 - [SECO Online Services](https://online-services.admin.ch)
 - [Zukunft Bahnhof Bern](https://www.zukunftbahnhofbern.ch/de/home/)
