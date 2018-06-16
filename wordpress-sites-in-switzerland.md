@@ -98,7 +98,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Food & Drinks
 - [1664 Bier](http://1664.ch/)
 - [BR Bier](https://www.br-bier.ch)
-- [Das Trüffelschwein](http://www.dastrueffelschwein.ch/)
 - [foodaktuell.ch](http://www.foodaktuell.ch/)
 - [Grotto Ticino](http://www.grotto-ticino.ch/)
 - [Kindschi Destillerie](https://kindschi.ch/)
