@@ -204,7 +204,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Alertswiss](https://alertswiss.ch/)
 - [Cath. church of canton Zurich](http://blog.zhkath.ch/)
 - [ENSI](http://ensi.ch)
-- [KMU Wahlkandidaten 2015](http://www.kmu-wahlkandidaten.ch)
 - [ON-X](http://www.on-x.ch/)
 - [Ortsplanungsrevision Thun](http://www.ortsplanungsrevisionthun.ch/)
 - [Pro Helvetia - Swiss Arts Council](https://prohelvetia.ch/en/)
