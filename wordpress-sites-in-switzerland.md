@@ -208,7 +208,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Ortsplanungsrevision Thun](http://www.ortsplanungsrevisionthun.ch/)
 - [Pro Helvetia - Swiss Arts Council](https://prohelvetia.ch/en/)
 - [SBB Cargo Blog](http://blog.sbbcargo.com/)
-- [SBB Media Relations](https://sbb-medien.ch/)
 - [SBB Stories](http://blog.sbb.ch/)
 - [SECO Online Services](https://online-services.admin.ch)
 - [Zukunft Bahnhof Bern](https://www.zukunftbahnhofbern.ch/de/home/)
