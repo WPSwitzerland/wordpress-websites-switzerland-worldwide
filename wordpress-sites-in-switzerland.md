@@ -192,7 +192,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Yvonne Heller](https://yvonneheller.de/)
 
 ## Property market
-- [Andermatt Swissalps](http://www.andermatt-swissalps.ch/)
 - [Homegate](https://blog.homegate.ch/)
 - [Müller & Müller Immobilien](http://www.mm-immob.ch/)
 - [Peach Property Group](http://www.peachproperty.com/)
