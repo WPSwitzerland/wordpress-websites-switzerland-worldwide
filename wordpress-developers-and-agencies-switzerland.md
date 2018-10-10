@@ -35,7 +35,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Karin Christen](http://karinchristen.com/) - [@karinchristen](https://twitter.com/karinchristen)
 - [Kevin Walker](http://kevinwalker.ch/) - [@walkeezy](https://twitter.com/walkeezy)
 - [Marc Wieland](http://www.marcwieland.ch/) - [@marcwieland95](https://twitter.com/marcwieland95)
-- [Mark Howells-Mead](https://permanenttourist.ch/topic/wordpress/) - [@markwebch](https://twitter.com/markwebch)
+- [Mark Howells-Mead](https://permanenttourist.ch/topic/wordpress/) - [@howellsmead](https://twitter.com/howellsmead)
 - [Martin Steiner](https://profiles.wordpress.org/webstooni) - [@stooni](https://twitter.com/stooni)
 - [Michael Sebel](http://sebel.ch) - [@msebel](https://twitter.com/msebel)
 - [Nick Weisser](https://nick.weisser.me/) - [@nickweisser](https://twitter.com/nickweisser)
