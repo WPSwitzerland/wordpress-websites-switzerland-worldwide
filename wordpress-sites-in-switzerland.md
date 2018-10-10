@@ -16,6 +16,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Architecture
 - [Calanda](http://calanda.ch/)
 - [Donatsch & Partner](http://www.donatsch.ch/)
+- [Generalplanung Archipel](https://www.archipel-gp.ch/)
 - [Planix](http://planixteam.ch/)
 - [PRPA](http://prpa.ch/)
 - [S+B Baumanagement](http://www.s-b.swiss/)
@@ -32,6 +33,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Banking
 - [Bank SLM](https://www.bankslm.ch/)
+- [WIR Bank Genossenschaft blog](https://blog.wir.ch/)
 
 ## Blog
 - [Karrierefrau Schweiz](https://www.karrierefrauschweiz.ch/)
@@ -218,6 +220,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [NZZ Business Report](http://gb.nzz.ch/)
 
 ## Retail
+- [Fortmann AG](https://www.fortmann-ag.ch/)
 - [PostParc](https://www.postparc.ch/)
 - [Schuhmacherei Sahli](http://www.schuhmacherei-sahli.ch/)
 
@@ -256,6 +259,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Stan Wawrinka](http://www.stanwawrinka.com/)
 - [Swiss Nordic Center](https://swiss-nordic-center.ch/)
 - [Swiss Paralympic](http://www.swissparalympic.ch/)
+
+## Technology
+- [Technische Gesellschaft Zürich](https://www.tgz-net.ch/)
 
 ## Translation
 - [Mark O'Neil Translations](https://markoneil.ch/)
