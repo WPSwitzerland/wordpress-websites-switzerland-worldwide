@@ -34,5 +34,5 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 #### Zürich
 
-- WordPress Meetup Zürich [on Meetup.com](https://www.meetup.com/WordPress-Zurich/)
+- WordPress Meetup Zürich [on Meetup.com](https://www.meetup.com/WordPress-Zurich/) / [website](https://wpzurich.ch/)
 - Zürich WooCommerce Meetup [on Meetup.com](https://www.meetup.com/Zurich-WooCommerce-Meetup/)
