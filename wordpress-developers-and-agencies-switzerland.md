@@ -20,7 +20,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Refined Practice](https://www.refinedpractice.com/) - [@RefinedPractice](https://twitter.com/RefinedPractice)
 - [required](https://required.com/) - [@wearerequired](https://twitter.com/wearerequired)
 - [Resort Studio](http://resortstudio.ch/digital/)
-- [Say Hello](https://sayhello.ch)
+- [Say Hello](https://sayhello.ch) - [@sayhellogmbh](https://twitter.com/sayhellogmbh)
 - [someco](https://someco.ch)
 - [WebKinder](https://www.webkinder.ch/)
 - [Web Updates KMU GmbH](https://wuk.ch/) - [@wuk_ch](https://twitter.com/wuk_ch)
