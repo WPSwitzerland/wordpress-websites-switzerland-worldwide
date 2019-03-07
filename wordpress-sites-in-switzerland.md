@@ -14,9 +14,12 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - ([Web development agencies are here](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md).)
 
 ## Architecture
+- [Be­arth & De­pla­zes Ar­chi­tek­ten](https://bearth-deplazes.ch)
 - [Calanda](http://calanda.ch/)
 - [Donatsch & Partner](http://www.donatsch.ch/)
+- [Federico Immobilien](https://federico-immobilien.ch/)
 - [Generalplanung Archipel](https://www.archipel-gp.ch/)
+- [Notaton](https://notaton.ch/)
 - [Planix](http://planixteam.ch/)
 - [PRPA](http://prpa.ch/)
 - [S+B Baumanagement](http://www.s-b.swiss/)
@@ -43,8 +46,11 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Coaching
 - [Amir Vitis](http://www.amirvitis.ch/)
 - [Avantos](http://www.avantos.ch/)
+- [Grass Beratung](https://grassberatung.ch/)
+- [FineSolutions](https://finesolutions.ch/)
 
 ## Construction
+- [Suicorr](https://suicorr.com/)
 - [Wymann Elektro](https://www.wymann-elektro.ch)
 
 ## Consultancy
@@ -56,6 +62,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Directory
 - [The Ipsum Collection](https://theipsumcollection.com/)
+- [Babysitter-Vermittlungsplattform](https://babysitter.srk-gr.ch/)
 
 ## Drugs
 - [rave it safe](https://www.raveitsafe.ch/)
@@ -70,6 +77,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Engineering
 - [Baulink](https://www.baulink.ch/)
 - [Balz Engineering AG](https://www.balzbau.ch)
+- [Nay Engineering](https://nay.ch)
 
 ## Entertainment
 - [Dabu Fantastic](http://dabufantastic.ch/)
@@ -97,6 +105,10 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Migros Bank Blog](https://blog.migrosbank.ch/de/)
 - [Tilbago](https://www.tilbago.ch/)
 
+## Government
+- [Bisch fit?](https://bischfit.ch/)
+- [Jumelage](https://jumelage.net/)
+
 ## Food & Drinks
 - [1664 Bier](http://1664.ch/)
 - [BR Bier](https://www.br-bier.ch)
@@ -122,6 +134,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Gorilla by Schtifti Foundation](http://gorilla.ch/)
 - [Hirslanden Blog](https://blog.hirslanden.ch/)
 - [Praxis Gruber](http://www.praxisgruber.ch/)
+- [Physio Parpan](http://physioparpan.ch/)
 - [Radiologie Südost](https://radiologie-suedost.ch/)
 - [Stucki Orthopädie](http://www.stuckiortho.ch/)
 
@@ -137,6 +150,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Data Dynamic AG](http://www.ddag.ch)
 - [Switchie KB](https://switchie.ch/en/)
 - [switchplus](https://switchplus.ch/en/)
+- [Vertec](http://vertec.com)
 
 ## Jewelry
 - [Benevolenti](http://www.benevolenti.com)
@@ -176,6 +190,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [vbzonline.ch](https://vbzonline.ch/)
 
 ## NGO
+- [Frauenverein Nidau](https://frauenverein-nidau.ch/)
 - [Helpdesk Rotes Kreuz](http://helpdesk-roteskreuz.ch/)
 
 ## Photography
@@ -194,6 +209,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Yvonne Heller](https://yvonneheller.de/)
 
 ## Property market
+- [Christoffel Ferienwohnungen](https://www.christoffeldavos.ch)
 - [Homegate](https://blog.homegate.ch/)
 - [Müller & Müller Immobilien](http://www.mm-immob.ch/)
 - [Peach Property Group](http://www.peachproperty.com/)
@@ -228,6 +244,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Swiss Robotics Industry Day](http://swissroboticsindustry.ch/)
 
 ## Service provider
+- [Elektra Gams](https://elektra-gams.ch/)
 - [Flims Electric](http://www.flimselectric.ch/)
 - [IBC Energie Wasser Chur](https://ibc-chur.ch)
 - [KVA Buchs Aargau](http://kva-buchs.ch/)
@@ -278,8 +295,10 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Kuoni Group](https://kuoni.com/)
 - [Melchsee-Frutt](http://www.melchsee-frutt.ch/)
 - [Mutten](http://www.mutten.ch/)
+- [Premium Swiss Family Hotels](https://psfh.ch/)
 - [Säntispark](https://saentispark-freizeit.ch/)
 - [The Dolder Grand](https://www.thedoldergrand.com/)
+- [Turrabuel](https://turrabuel.ch)
 - [Uetliberg](http://www.uetliberg.ch/)
 - [Uto Kulm](http://www.utokulm.ch/)
 
