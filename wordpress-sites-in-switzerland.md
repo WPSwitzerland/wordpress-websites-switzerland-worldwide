@@ -14,7 +14,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - ([Web development agencies are here](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md).)
 
 ## Architecture
-- [Be­arth & De­pla­zes Ar­chi­tek­ten](https://bearth-deplazes.ch)
+- [Bearth & Deplazes Architekten](https://bearth-deplazes.ch)
 - [Calanda](http://calanda.ch/)
 - [Donatsch & Partner](http://www.donatsch.ch/)
 - [Federico Immobilien](https://federico-immobilien.ch/)
@@ -61,8 +61,8 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [GRAYLYNX](https://www.graylynx.ch/)
 
 ## Directory
-- [The Ipsum Collection](https://theipsumcollection.com/)
 - [Babysitter-Vermittlungsplattform](https://babysitter.srk-gr.ch/)
+- [The Ipsum Collection](https://theipsumcollection.com/)
 
 ## Drugs
 - [rave it safe](https://www.raveitsafe.ch/)
@@ -142,12 +142,14 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Triple HR Services](https://www.triple-hr.ch/)
 
 ## Industry
+- [Allega](https://www.allega.ch/)
 - [Burckhardt Compression AG](https://www.burckhardtcompression.com/)
 
 ## IT / Services
 - [aMIRA](https://www.algacom-amira.com/)
 - [Avantos](https://avantos.ch/)
 - [Data Dynamic AG](http://www.ddag.ch)
+- [Edorex](https://edorex.ch/)
 - [Switchie KB](https://switchie.ch/en/)
 - [switchplus](https://switchplus.ch/en/)
 - [Vertec](http://vertec.com)
@@ -167,7 +169,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [KOLT](http://kolt.ch/)
 
 ## Marketing
-- [Burson-Marsteller](http://www.burson-marsteller.ch/)
 - [CLUS Werbeagentur](https://clus.ch/)
 - [Corporate Dialog](https://corporate-dialog.ch/)
 - [Marie-Christine Schindler](https://www.mcschindler.com/)
@@ -195,9 +196,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Photography
 - [Boris Baldinger](https://www.boris-baldinger.com/)
+- [Lea Moser](https://leamoser.ch/)
 - [Michael Sieber](http://michaelsieber.com/)
 - [Nicole Strebel](http://www.enolic.ch/)
-- [Lea Moser](https://leamoser.ch/)
 
 ## Politics
 - [Digitale Nachhaltigkeit](https://www.digitale-nachhaltigkeit.ch/)
@@ -303,7 +304,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Uto Kulm](http://www.utokulm.ch/)
 
 ## Toys
-- [Naef Spiele](https://www.naefspiele.ch/de/home/)
+- [Naef Spiele](https://www.naefspiele.ch/)
 
 ## Usability
 - [soultank](http://soultank.ch/)
