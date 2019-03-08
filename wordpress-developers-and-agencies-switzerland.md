@@ -13,7 +13,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Guave Interactive](https://www.guaveinteractive.ch/)- [@guave_ia](https://twitter.com/guave_ia)
 - [Haptiq](https://haptiq.studio/)
 - [MIND](https://www.mind.ch/)
-- [miux](http://miux.ch/)
+- [Miux AG](http://miux.ch/)
 - [OneByte AG](https://www.onebyte.ch)
 - [Openstream](https://www.openstream.ch/) - [@openstream](https://twitter.com/openstream)
 - [PATDEF-webdesign](https://patdef-webdesign.ch) - [@PatriceDefago](https://twitter.com/PatriceDefago)
@@ -25,7 +25,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [WebKinder](https://www.webkinder.ch/)
 - [Web Updates KMU GmbH](https://wuk.ch/) - [@wuk_ch](https://twitter.com/wuk_ch)
 - [We Love You](https://www.weloveyou.ch/) - [@weloveyou_ch](https://twitter.com/weloveyou_ch)
-- [What we do](https://www.whatwedo.ch/)
+- [whatwedo](https://www.whatwedo.ch/)
 - [Xeit](http://www.xeit.ch/)
 
 ## Developers
@@ -34,7 +34,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Claudio Schwarz](https://www.claudioschwarz.com/) - [@purzlbaum](https://twitter.com/purzlbaum)
 - [Karin Christen](http://karinchristen.com/) - [@karinchristen](https://twitter.com/karinchristen)
 - [Kevin Walker](http://kevinwalker.ch/) - [@walkeezy](https://twitter.com/walkeezy)
-- [Marc Wieland](http://www.marcwieland.ch/) - [@marcwieland95](https://twitter.com/marcwieland95)
+- [Marc Wieland](https://marcwieland.name/) - [@marcwieland95](https://twitter.com/marcwieland95)
 - [Mark Howells-Mead](https://permanenttourist.ch/topic/wordpress/) - [@howellsmead](https://twitter.com/howellsmead)
 - [Martin Steiner](https://profiles.wordpress.org/webstooni) - [@stooni](https://twitter.com/stooni)
 - [Michael Sebel](http://sebel.ch) - [@msebel](https://twitter.com/msebel)

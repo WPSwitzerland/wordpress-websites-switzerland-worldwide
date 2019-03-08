@@ -12,6 +12,10 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 - WordPress Meetup Bern [on Meetup.com](https://www.meetup.com/de-DE/WordPress-Bern/) / [website](https://wpbern.ch/)
 
+#### Chur
+
+- WebDev Meetup Chur [on Meetup.com](https://www.meetup.com/WebDev-Chur/)
+
 #### Geneva
 
 - WordPress Meetup Geneva [on Meetup.com](https://www.meetup.com/geneva-wordpress/) / [website](https://wpgva.ch/)
