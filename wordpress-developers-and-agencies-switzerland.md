@@ -17,6 +17,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [OneByte AG](https://www.onebyte.ch)
 - [Openstream](https://www.openstream.ch/) - [@openstream](https://twitter.com/openstream)
 - [PATDEF-webdesign](https://patdef-webdesign.ch) - [@PatriceDefago](https://twitter.com/PatriceDefago)
+- [Picture-Planet GmbH](https://www.picture-planet.ch/)
 - [Refined Practice](https://www.refinedpractice.com/) - [@RefinedPractice](https://twitter.com/RefinedPractice)
 - [required](https://required.com/) - [@wearerequired](https://twitter.com/wearerequired)
 - [Resort Studio](http://resortstudio.ch/digital/)
