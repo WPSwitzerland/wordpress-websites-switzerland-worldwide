@@ -202,6 +202,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Politics
 - [Digitale Nachhaltigkeit](https://www.digitale-nachhaltigkeit.ch/)
+- [Frauenstreik](https://frau-streikt.ch/)
 
 ## Portfolio
 - [Claudio Thoma](https://www.claudiothoma.ch/)
