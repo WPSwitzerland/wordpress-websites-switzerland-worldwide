@@ -270,6 +270,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Handels- und Industrieverein Bern](http://www.wirtschaftstermine.ch/)
 - [SIEA](https://www.siea.ch/)
 - [USKA](http://www.uska.ch/)
+- [Verband des Schweizerischen Versandhandels](https://www.vsv-versandhandel.ch/)
 
 ## Sport
 - [Dominique Gisin](http://dominiquegisin.ch/)
