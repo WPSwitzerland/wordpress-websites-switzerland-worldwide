@@ -153,6 +153,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Switchie KB](https://switchie.ch/en/)
 - [switchplus](https://switchplus.ch/en/)
 - [Vertec](http://vertec.com)
+- [WP Smart Protect](https://wp-smart-protect.ch/)
 
 ## Jewelry
 - [Benevolenti](http://www.benevolenti.com)
