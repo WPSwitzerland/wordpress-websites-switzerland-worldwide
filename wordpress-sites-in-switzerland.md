@@ -127,9 +127,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Werkstatt Chur](http://werkstattchur.ch/)
 
 ## Foundation
+- [Baugarten Zürich](https://www.baugarten-zuerich.ch/)
 - [CONTACT Arbeit](http://www.contact-arbeit.ch/)
 - [CONTACT - Stiftung für Suchthilfe](http://www.contact-suchthilfe.ch/)
-- [Baugarten Zürich](https://www.baugarten-zuerich.ch/)
 - [Schtifti Foundation](http://schtifti.ch/)
 
 ## Health
