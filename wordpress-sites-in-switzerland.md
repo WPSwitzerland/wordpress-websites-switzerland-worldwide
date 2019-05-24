@@ -280,6 +280,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Stan Wawrinka](http://www.stanwawrinka.com/)
 - [Swiss Nordic Center](https://swiss-nordic-center.ch/)
 - [Swiss Paralympic](http://www.swissparalympic.ch/)
+- [Swiss Cycling](https://www.swiss-cycling.ch/)
 
 ## Technology
 - [Technische Gesellschaft Zürich](https://www.tgz-net.ch/)
