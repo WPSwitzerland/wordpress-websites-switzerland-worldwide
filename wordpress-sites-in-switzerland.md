@@ -81,6 +81,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Entertainment
 - [Dabu Fantastic](http://dabufantastic.ch/)
+- [Drive-in Movies](https://www.driveinmovies.ch/)
 - [Flurin Caviezel](https://flurincaviezel.ch)
 - [Len Sander](http://www.lensander.com/)
 - [Züri West](https://zueriwest.ch/)
@@ -112,6 +113,8 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Food & Drinks
 - [1664 Bier](http://1664.ch/)
 - [BR Bier](https://www.br-bier.ch)
+- [Candrian Catering](https://www.candrian.com/)
+- [Clouds](https://clouds.ch/)
 - [foodaktuell.ch](http://www.foodaktuell.ch/)
 - [Grotto Ticino](http://www.grotto-ticino.ch/)
 - [Kindschi Destillerie](https://kindschi.ch/)
@@ -119,10 +122,12 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Lunchbag](https://lunchbag.ch/)
 - [Natur Konkret](http://natur-konkret.ch/)
 - [Schweizerische Gesellschaft für Ernährung](http://www.sge-ssn.ch/)
+- [Steiner Beck](https://www.steiner-beck.ch/)
 - [Tuchlaube](http://tuchlaubeaarau.ch/)
 - [Werkstatt Chur](http://werkstattchur.ch/)
 
 ## Foundation
+- [Baugarten Zürich](https://www.baugarten-zuerich.ch/)
 - [CONTACT Arbeit](http://www.contact-arbeit.ch/)
 - [CONTACT - Stiftung für Suchthilfe](http://www.contact-suchthilfe.ch/)
 - [Schtifti Foundation](http://schtifti.ch/)
@@ -153,6 +158,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Switchie KB](https://switchie.ch/en/)
 - [switchplus](https://switchplus.ch/en/)
 - [Vertec](http://vertec.com)
+- [WP Smart Protect](https://wp-smart-protect.ch/)
 
 ## Jewelry
 - [Benevolenti](http://www.benevolenti.com)
@@ -161,9 +167,13 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Zoppi Juwelier](http://zoppijuwelier.ch/)
 
 ## Jobs
+- [CoSB Kandidatenportal](https://kandidaten.cosb.ch/)
 - [foodwardjobs](http://foodwardjobs.com/)
 - [Freshjobs](https://freshjobs.ch/)
+- [JobCloud](https://www.jobcloud.ch)
+- [JobCoach](https://www.jobs.ch/de/job-coach/)
 - [Medienjobs](http://medienjobs.ch/)
+
 
 ## Magazine
 - [KOLT](http://kolt.ch/)
@@ -263,7 +273,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Society
 - [Handels- und Industrieverein Bern](http://www.wirtschaftstermine.ch/)
+- [SIEA](https://www.siea.ch/)
 - [USKA](http://www.uska.ch/)
+- [Verband des Schweizerischen Versandhandels](https://www.vsv-versandhandel.ch/)
 
 ## Sport
 - [Dominique Gisin](http://dominiquegisin.ch/)
@@ -278,6 +290,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Stan Wawrinka](http://www.stanwawrinka.com/)
 - [Swiss Nordic Center](https://swiss-nordic-center.ch/)
 - [Swiss Paralympic](http://www.swissparalympic.ch/)
+- [Swiss Cycling](https://www.swiss-cycling.ch/)
 
 ## Technology
 - [Technische Gesellschaft Zürich](https://www.tgz-net.ch/)
