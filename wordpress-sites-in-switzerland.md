@@ -164,6 +164,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Zoppi Juwelier](http://zoppijuwelier.ch/)
 
 ## Jobs
+- [CoSB](https://www.cosb.ch/)
 - [foodwardjobs](http://foodwardjobs.com/)
 - [Freshjobs](https://freshjobs.ch/)
 - [Medienjobs](http://medienjobs.ch/)
