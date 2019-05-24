@@ -266,6 +266,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Society
 - [Handels- und Industrieverein Bern](http://www.wirtschaftstermine.ch/)
+- [SIEA](https://www.siea.ch/)
 - [USKA](http://www.uska.ch/)
 
 ## Sport
