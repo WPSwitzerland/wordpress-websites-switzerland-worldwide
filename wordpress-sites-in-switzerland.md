@@ -168,7 +168,10 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [CoSB](https://www.cosb.ch/)
 - [foodwardjobs](http://foodwardjobs.com/)
 - [Freshjobs](https://freshjobs.ch/)
+- [JobCloud](https://www.jobcloud.ch)
+- [JobCoach](https://www.jobs.ch/de/job-coach/)
 - [Medienjobs](http://medienjobs.ch/)
+
 
 ## Magazine
 - [KOLT](http://kolt.ch/)
