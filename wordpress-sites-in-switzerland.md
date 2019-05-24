@@ -119,6 +119,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Lunchbag](https://lunchbag.ch/)
 - [Natur Konkret](http://natur-konkret.ch/)
 - [Schweizerische Gesellschaft für Ernährung](http://www.sge-ssn.ch/)
+- [Steiner Beck](https://www.steiner-beck.ch/)
 - [Tuchlaube](http://tuchlaubeaarau.ch/)
 - [Werkstatt Chur](http://werkstattchur.ch/)
 
