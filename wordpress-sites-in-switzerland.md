@@ -81,6 +81,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Entertainment
 - [Dabu Fantastic](http://dabufantastic.ch/)
+- [Drive-in Movies](https://www.driveinmovies.ch/)
 - [Flurin Caviezel](https://flurincaviezel.ch)
 - [Len Sander](http://www.lensander.com/)
 - [Züri West](https://zueriwest.ch/)
