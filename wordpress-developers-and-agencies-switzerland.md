@@ -46,7 +46,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Patrice Défago](https://patdef-webdesign.ch) - [@PatriceDefago](https://twitter.com/PatriceDefago)
 - [Paul Ratcliffe](https://www.refinedpractice.com/) - [@Meester_Paul](https://twitter.com/Meester_Paul)
 - [Roger Burkhard](http://rogerburkhard.com/de/)
-- [Sandro Würmli](https://www.sandrowuermli.ch) - [@sandrowuermli](https://www.twitter.com/sandrowuermli)
+- [Sandro Würmli](https://sandro.live) - [@sandrowuermli](https://www.twitter.com/sandrowuermli)
 - [Silvan Hagen](http://silvanhagen.com/) - [@neverything](https://twitter.com/neverything)
 - [Stefan Murawski](https://wuk.ch/kontakt/team/) - [@stefanmurawski](https://twitter.com/stefanmurawski)
 - [Ulrich Pogson](http://ulrich.pogson.ch/) - [@grapplerulrich](https://twitter.com/grapplerulrich)
