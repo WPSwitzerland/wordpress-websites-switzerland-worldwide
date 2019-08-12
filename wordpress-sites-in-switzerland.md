@@ -40,8 +40,8 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Blog
 - [Karrierefrau Schweiz](https://www.karrierefrauschweiz.ch/)
-- [Palms and Mountains](https://palmsandmountains.ch)
 - [Sunnechind](http://sunnechind.ch/)
+- [Sandro Würmli](https://sandro.live/)
 
 ## Coaching
 - [Amir Vitis](http://www.amirvitis.ch/)
