@@ -14,8 +14,12 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - ([Web development agencies are here](https://github.com/WPSwitzerland/wordpress-websites-switzerland-worldwide/blob/master/wordpress-developers-and-agencies-switzerland.md).)
 
 ## Architecture
+- [Bearth & Deplazes Architekten](https://bearth-deplazes.ch)
 - [Calanda](http://calanda.ch/)
 - [Donatsch & Partner](http://www.donatsch.ch/)
+- [Federico Immobilien](https://federico-immobilien.ch/)
+- [Generalplanung Archipel](https://www.archipel-gp.ch/)
+- [Notaton](https://notaton.ch/)
 - [Planix](http://planixteam.ch/)
 - [PRPA](http://prpa.ch/)
 - [S+B Baumanagement](http://www.s-b.swiss/)
@@ -32,17 +36,22 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Banking
 - [Bank SLM](https://www.bankslm.ch/)
+- [WIR Bank Genossenschaft blog](https://blog.wir.ch/)
 
 ## Blog
 - [Karrierefrau Schweiz](https://www.karrierefrauschweiz.ch/)
 - [Palms and Mountains](https://palmsandmountains.com)
 - [Sunnechind](http://sunnechind.ch/)
+- [Sandro Würmli](https://sandro.live/)
 
 ## Coaching
 - [Amir Vitis](http://www.amirvitis.ch/)
 - [Avantos](http://www.avantos.ch/)
+- [Grass Beratung](https://grassberatung.ch/)
+- [FineSolutions](https://finesolutions.ch/)
 
 ## Construction
+- [Suicorr](https://suicorr.com/)
 - [Wymann Elektro](https://www.wymann-elektro.ch)
 
 ## Consultancy
@@ -53,6 +62,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [GRAYLYNX](https://www.graylynx.ch/)
 
 ## Directory
+- [Babysitter-Vermittlungsplattform](https://babysitter.srk-gr.ch/)
 - [The Ipsum Collection](https://theipsumcollection.com/)
 
 ## Drugs
@@ -68,9 +78,11 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Engineering
 - [Baulink](https://www.baulink.ch/)
 - [Balz Engineering AG](https://www.balzbau.ch)
+- [Nay Engineering](https://nay.ch)
 
 ## Entertainment
 - [Dabu Fantastic](http://dabufantastic.ch/)
+- [Drive-in Movies](https://www.driveinmovies.ch/)
 - [Flurin Caviezel](https://flurincaviezel.ch)
 - [Len Sander](http://www.lensander.com/)
 - [Züri West](https://zueriwest.ch/)
@@ -95,9 +107,15 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Migros Bank Blog](https://blog.migrosbank.ch/de/)
 - [Tilbago](https://www.tilbago.ch/)
 
+## Government
+- [Bisch fit?](https://bischfit.ch/)
+- [Jumelage](https://jumelage.net/)
+
 ## Food & Drinks
 - [1664 Bier](http://1664.ch/)
 - [BR Bier](https://www.br-bier.ch)
+- [Candrian Catering](https://www.candrian.com/)
+- [Clouds](https://clouds.ch/)
 - [foodaktuell.ch](http://www.foodaktuell.ch/)
 - [Grotto Ticino](http://www.grotto-ticino.ch/)
 - [Kindschi Destillerie](https://kindschi.ch/)
@@ -105,10 +123,12 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Lunchbag](https://lunchbag.ch/)
 - [Natur Konkret](http://natur-konkret.ch/)
 - [Schweizerische Gesellschaft für Ernährung](http://www.sge-ssn.ch/)
+- [Steiner Beck](https://www.steiner-beck.ch/)
 - [Tuchlaube](http://tuchlaubeaarau.ch/)
 - [Werkstatt Chur](http://werkstattchur.ch/)
 
 ## Foundation
+- [Baugarten Zürich](https://www.baugarten-zuerich.ch/)
 - [CONTACT Arbeit](http://www.contact-arbeit.ch/)
 - [CONTACT - Stiftung für Suchthilfe](http://www.contact-suchthilfe.ch/)
 - [Schtifti Foundation](http://schtifti.ch/)
@@ -120,6 +140,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Gorilla by Schtifti Foundation](http://gorilla.ch/)
 - [Hirslanden Blog](https://blog.hirslanden.ch/)
 - [Praxis Gruber](http://www.praxisgruber.ch/)
+- [Physio Parpan](http://physioparpan.ch/)
 - [Radiologie Südost](https://radiologie-suedost.ch/)
 - [Stucki Orthopädie](http://www.stuckiortho.ch/)
 
@@ -127,14 +148,18 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Triple HR Services](https://www.triple-hr.ch/)
 
 ## Industry
+- [Allega](https://www.allega.ch/)
 - [Burckhardt Compression AG](https://www.burckhardtcompression.com/)
 
 ## IT / Services
 - [aMIRA](https://www.algacom-amira.com/)
 - [Avantos](https://avantos.ch/)
 - [Data Dynamic AG](http://www.ddag.ch)
+- [Edorex](https://edorex.ch/)
 - [Switchie KB](https://switchie.ch/en/)
 - [switchplus](https://switchplus.ch/en/)
+- [Vertec](http://vertec.com)
+- [WP Smart Protect](https://wp-smart-protect.ch/)
 
 ## Jewelry
 - [Benevolenti](http://www.benevolenti.com)
@@ -143,15 +168,18 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Zoppi Juwelier](http://zoppijuwelier.ch/)
 
 ## Jobs
+- [CoSB Kandidatenportal](https://kandidaten.cosb.ch/)
 - [foodwardjobs](http://foodwardjobs.com/)
 - [Freshjobs](https://freshjobs.ch/)
+- [JobCloud](https://www.jobcloud.ch)
+- [JobCoach](https://www.jobs.ch/de/job-coach/)
 - [Medienjobs](http://medienjobs.ch/)
+
 
 ## Magazine
 - [KOLT](http://kolt.ch/)
 
 ## Marketing
-- [Burson-Marsteller](http://www.burson-marsteller.ch/)
 - [CLUS Werbeagentur](https://clus.ch/)
 - [Corporate Dialog](https://corporate-dialog.ch/)
 - [Marie-Christine Schindler](https://www.mcschindler.com/)
@@ -174,16 +202,18 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [vbzonline.ch](https://vbzonline.ch/)
 
 ## NGO
+- [Frauenverein Nidau](https://frauenverein-nidau.ch/)
 - [Helpdesk Rotes Kreuz](http://helpdesk-roteskreuz.ch/)
 
 ## Photography
 - [Boris Baldinger](https://www.boris-baldinger.com/)
+- [Lea Moser](https://leamoser.ch/)
 - [Michael Sieber](http://michaelsieber.com/)
 - [Nicole Strebel](http://www.enolic.ch/)
-- [Lea Moser](https://leamoser.ch/)
 
 ## Politics
 - [Digitale Nachhaltigkeit](https://www.digitale-nachhaltigkeit.ch/)
+- [Frauenstreik](https://frau-streikt.ch/)
 
 ## Portfolio
 - [Claudio Thoma](https://www.claudiothoma.ch/)
@@ -192,6 +222,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Yvonne Heller](https://yvonneheller.de/)
 
 ## Property market
+- [Christoffel Ferienwohnungen](https://www.christoffeldavos.ch)
 - [Homegate](https://blog.homegate.ch/)
 - [Müller & Müller Immobilien](http://www.mm-immob.ch/)
 - [Peach Property Group](http://www.peachproperty.com/)
@@ -218,6 +249,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [NZZ Business Report](http://gb.nzz.ch/)
 
 ## Retail
+- [Fortmann AG](https://www.fortmann-ag.ch/)
 - [PostParc](https://www.postparc.ch/)
 - [Schuhmacherei Sahli](http://www.schuhmacherei-sahli.ch/)
 
@@ -225,6 +257,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Swiss Robotics Industry Day](http://swissroboticsindustry.ch/)
 
 ## Service provider
+- [Elektra Gams](https://elektra-gams.ch/)
 - [Flims Electric](http://www.flimselectric.ch/)
 - [IBC Energie Wasser Chur](https://ibc-chur.ch)
 - [KVA Buchs Aargau](http://kva-buchs.ch/)
@@ -241,7 +274,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Society
 - [Handels- und Industrieverein Bern](http://www.wirtschaftstermine.ch/)
+- [SIEA](https://www.siea.ch/)
 - [USKA](http://www.uska.ch/)
+- [Verband des Schweizerischen Versandhandels](https://www.vsv-versandhandel.ch/)
 
 ## Sport
 - [Dominique Gisin](http://dominiquegisin.ch/)
@@ -256,6 +291,10 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Stan Wawrinka](http://www.stanwawrinka.com/)
 - [Swiss Nordic Center](https://swiss-nordic-center.ch/)
 - [Swiss Paralympic](http://www.swissparalympic.ch/)
+- [Swiss Cycling](https://www.swiss-cycling.ch/)
+
+## Technology
+- [Technische Gesellschaft Zürich](https://www.tgz-net.ch/)
 
 ## Translation
 - [Mark O'Neil Translations](https://markoneil.ch/)
@@ -272,13 +311,15 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Kuoni Group](https://kuoni.com/)
 - [Melchsee-Frutt](http://www.melchsee-frutt.ch/)
 - [Mutten](http://www.mutten.ch/)
+- [Premium Swiss Family Hotels](https://psfh.ch/)
 - [Säntispark](https://saentispark-freizeit.ch/)
 - [The Dolder Grand](https://www.thedoldergrand.com/)
+- [Turrabuel](https://turrabuel.ch)
 - [Uetliberg](http://www.uetliberg.ch/)
 - [Uto Kulm](http://www.utokulm.ch/)
 
 ## Toys
-- [Naef Spiele](https://www.naefspiele.ch/de/home/)
+- [Naef Spiele](https://www.naefspiele.ch/)
 
 ## Usability
 - [soultank](http://soultank.ch/)
