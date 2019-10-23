@@ -7,6 +7,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Agencies, not including web development agencies
 - [Bernet PR](https://bernet.ch/)
 - [Glowing Blue](http://www.glowing.blue/)
+- [NeidhartSchön](https://neidhartschoen.ch/)
 - [NPO4Cloud](https://www.npo4cloud.ch/)
 - [Process Group](http://process-group.com/)
 - [Republica Live](http://www.republica-live.ch/)
