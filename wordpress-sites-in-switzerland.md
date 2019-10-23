@@ -137,7 +137,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Health
 - [Ärztlicher Bezirksverein Bern Regio](http://www.abvbernregio.ch/)
 - [CSS Insurance Magazin](https://blog.css.ch/)
-- [Espace Chirurgie](https://epsace-chirurgie.ch/)
+- [Espace Chirurgie](https://espace-chirurgie.ch/)
 - [Galenos](https://www.galenos.ch)
 - [Gorilla by Schtifti Foundation](http://gorilla.ch/)
 - [Hirslanden Blog](https://blog.hirslanden.ch/)
