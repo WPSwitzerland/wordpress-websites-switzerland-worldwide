@@ -39,6 +39,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [WIR Bank Genossenschaft blog](https://blog.wir.ch/)
 
 ## Blog
+- [Burgundy Report](https://www.burgundy-report.com/)
 - [Karrierefrau Schweiz](https://www.karrierefrauschweiz.ch/)
 - [Palms and Mountains](https://palmsandmountains.com)
 - [Sunnechind](http://sunnechind.ch/)
@@ -136,6 +137,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Health
 - [Ärztlicher Bezirksverein Bern Regio](http://www.abvbernregio.ch/)
 - [CSS Insurance Magazin](https://blog.css.ch/)
+- [Espace Chirurgie](https://epsace-chirurgie.ch/)
 - [Galenos](https://www.galenos.ch)
 - [Gorilla by Schtifti Foundation](http://gorilla.ch/)
 - [Hirslanden Blog](https://blog.hirslanden.ch/)
@@ -175,13 +177,13 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [JobCoach](https://www.jobs.ch/de/job-coach/)
 - [Medienjobs](http://medienjobs.ch/)
 
-
 ## Magazine
 - [KOLT](http://kolt.ch/)
 
 ## Marketing
 - [CLUS Werbeagentur](https://clus.ch/)
 - [Corporate Dialog](https://corporate-dialog.ch/)
+- [Magma Branding](https://www.magma-branding.ch/)
 - [Marie-Christine Schindler](https://www.mcschindler.com/)
 
 ## Media
@@ -267,6 +269,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Bitboard](http://bitboard.ch/)
 - [Blumenwerkstatt Interlaken](http://blumenwerkstatt.ch/)
 - [Büro a + 0](http://buero-ao.ch)
+- [KADDZ](http://www.kaddz.com/)
 - [Kreuz Apotheke](http://www.kazag.ch)
 - [Lichtschnitt](http://www.lichtschnitt.ch/)
 - [Mayoris](https://www.mayoris.com/)
@@ -282,6 +285,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Dominique Gisin](http://dominiquegisin.ch/)
 - [FB-Riders](http://www.fbriders.ch/)
 - [FC Aarau](https://fcaarau.ch/)
+- [Gleitschirmschule Flugbasis](https://flugbasis.ch/)
 - [Kloten-Dietlikon Jets](https://jets.ch)
 - [Lausanne HC](http://www.lausannehc.ch/)
 - [piranha chur](http://www.piranha.ch/)
