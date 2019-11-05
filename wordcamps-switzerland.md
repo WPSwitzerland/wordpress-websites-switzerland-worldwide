@@ -2,6 +2,10 @@
 
 [WordCamps](https://central.wordcamp.org/) - large meetups - have taken place in Switzerland since [2014](https://2014.switzerland.wordcamp.org/).
 
+## Geneva 2020
+
+- [Website](https://2020.geneve.wordcamp.org/)
+
 ## Zurich 2019
 
 - [Website](https://2019.zurich.wordcamp.org/)
