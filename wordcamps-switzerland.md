@@ -29,8 +29,8 @@
 
 ## Zurich 2015
 
-- [Website](https://2015.zurich.wordcamp.org/)
+- [Website](https://2015.switzerland.wordcamp.org/)
 
 ## Zurich 2014
 
-- [Website](https://2014.zurich.wordcamp.org/)
+- [Website](https://2014.switzerland.wordcamp.org/)
