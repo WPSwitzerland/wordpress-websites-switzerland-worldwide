@@ -44,6 +44,10 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 - WordPress Meetup Neuchâtel [on Meetup.com](https://www.meetup.com/WordPress-Neuchatel/)
 
+### Schaffhausen
+
+- WordPress meetup Schaffhausen [on Meetup.com](https://www.meetup.com/WordPress-Schaffhausen/)
+
 ### Sion
 
 - WordPress Meetup Sion [on Meetup.com](https://www.meetup.com/Sion-WordPress-Meetup/)
