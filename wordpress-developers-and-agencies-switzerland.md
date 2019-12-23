@@ -25,7 +25,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [someco](https://someco.ch)
 - [WebKinder](https://www.webkinder.ch/)
 - [Web Updates KMU GmbH](https://wuk.ch/) - [@wuk_ch](https://twitter.com/wuk_ch)
-- [We Love You](https://www.weloveyou.ch/) - [@weloveyou_ch](https://twitter.com/weloveyou_ch)
+- [WeLoveYou](https://www.weloveyou.ch/) - [@weloveyou_ch](https://twitter.com/weloveyou_ch)
 - [whatwedo](https://www.whatwedo.ch/)
 - [Xeit](http://www.xeit.ch/)
 
