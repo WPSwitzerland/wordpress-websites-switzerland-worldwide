@@ -14,6 +14,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Haptiq](https://haptiq.studio/)
 - [MIND](https://www.mind.ch/)
 - [Miux AG](http://miux.ch/)
+- [MONTAG digital](https://www.montag.ch/)
 - [OneByte AG](https://www.onebyte.ch)
 - [Openstream](https://www.openstream.ch/) - [@openstream](https://twitter.com/openstream)
 - [PATDEF-webdesign](https://patdef-webdesign.ch) - [@PatriceDefago](https://twitter.com/PatriceDefago)
