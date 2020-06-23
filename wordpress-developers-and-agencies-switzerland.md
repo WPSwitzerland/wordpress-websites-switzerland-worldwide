@@ -9,6 +9,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [CLUS Werbeagentur](https://clus.ch/) - [@clus_ch](https://twitter.com/clus_ch)
 - [Comotive](https://www.comotive.ch/)
 - [cubetech](https://www.cubetech.ch/) - [@cubetech_ch](https://twitter.com/cubetech_ch)
+- [Dream Production](https://dreamproduction.com/) - [@dreamproduction](https://twitter.com/dreamproduction)
 - [flake GmbH](https://flake.ch/)
 - [Guave Interactive](https://www.guaveinteractive.ch/)- [@guave_ia](https://twitter.com/guave_ia)
 - [Haptiq](https://haptiq.studio/)
