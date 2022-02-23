@@ -36,10 +36,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 - WordPress Meetup Luzern [on Meetup.com](https://www.meetup.com/WordPress-Meetup-Luzern-by-webkinder-ch/)
 
-### Monthey
-
-- WordPress Meetup Monthey [on Meetup.com](https://www.meetup.com/Monthey-WordPress-Meetup/)
-
 ### Neuchâtel / Neuenburg
 
 - WordPress Meetup Neuchâtel [on Meetup.com](https://www.meetup.com/WordPress-Neuchatel/)
