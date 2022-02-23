@@ -2,7 +2,11 @@
 
 [WordCamps](https://central.wordcamp.org/) - large meetups - have taken place in Switzerland since [2014](https://2014.switzerland.wordcamp.org/).
 
-## Geneva 2020
+## Genève 2022
+
+- [Website](https://geneve.wordcamp.org/2022/)
+
+## Genève 2020 - Postponed to 2022 due to COVID-19
 
 - [Website](https://2020.geneve.wordcamp.org/)
 
