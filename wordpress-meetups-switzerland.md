@@ -2,7 +2,7 @@
 Here's a list of all WordPress (and related) meetups in Switzerland.
 
 ## Add your meetup
-Please submit changes and additions to this repository via Patch or Pull Request. Don't have a Github account, or you're not sure how to contribute? Just send an email to github@wpswitzerland.ch and we'll take it from there.
+Please submit changes and additions to this repository via Patch or Pull Request. Don't have a Github account, or you're not sure how to contribute? Just send an email to info@wpswitzerland.ch and we'll take it from there.
 
 ### Baden
 
