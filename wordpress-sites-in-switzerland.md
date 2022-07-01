@@ -75,6 +75,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Blindenschule Zollikofen](http://www.blindenschule.ch/)
 - [foodward MAS Excellence in Food](http://foodward.ch/)
 - [Juventus Schulen](http://juventus.ch/)
+- [Sag es auf Spanisch - Spanischkurs](https://sagesaufspanisch.ch/)
 - [Technische Berufsschule Zürich](https://tbz.ch/)
 
 ## Engineering
@@ -183,6 +184,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Marketing
 - [CLUS Werbeagentur](https://clus.ch/)
+- [Corina Burri](https://www.corinaburri.com/)
 - [Corporate Dialog](https://corporate-dialog.ch/)
 - [Magma Branding](https://www.magma-branding.ch/)
 - [Marie-Christine Schindler](https://www.mcschindler.com/)
