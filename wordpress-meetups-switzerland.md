@@ -28,15 +28,11 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 - WordPress Meetup Lausanne [on Meetup.com](https://www.meetup.com/Lausanne-WordPress-Meetup/)
 
-### Lugano
-
-- WordPress Meetup Lugano [on Meetup.com](https://www.meetup.com/Lugano-WordPress-Meetup/)
-
 ### Luzern
 
 - WordPress Meetup Luzern [on Meetup.com](https://www.meetup.com/WordPress-Meetup-Luzern-by-webkinder-ch/)
 
-### Neuchâtel / Neuenburg
+### Neuchâtel
 
 - WordPress Meetup Neuchâtel [on Meetup.com](https://www.meetup.com/WordPress-Neuchatel/)
 
@@ -47,6 +43,11 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ### Sion
 
 - WordPress Meetup Sion [on Meetup.com](https://www.meetup.com/Sion-WordPress-Meetup/)
+
+### Ticino
+
+- WordPress Meetup Ticino mobile [on Meetup.com](https://www.meetup.com/wp-meetup-ticino-mobile/)
+- WordPress Meetup Lugano [on Meetup.com](https://www.meetup.com/Lugano-WordPress-Meetup/)
 
 ### Zürich
 
