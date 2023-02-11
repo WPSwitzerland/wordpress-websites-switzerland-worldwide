@@ -1,6 +1,6 @@
 # WordCamps
 
-[WordCamps](https://central.wordcamp.org/)—large meetups—have taken place in Switzerland since [2014](https://2014.switzerland.wordcamp.org/).
+<!-- [WordCamps](https://central.wordcamp.org/)—large meetups—have taken place in Switzerland since [2014](https://switzerland.wordcamp.org/2014/). -->
 
 ## Switzerland 2023
 
