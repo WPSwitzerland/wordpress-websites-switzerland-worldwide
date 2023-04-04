@@ -38,11 +38,15 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ### Schaffhausen
 
-- WordPress meetup Schaffhausen [on Meetup.com](https://www.meetup.com/WordPress-Schaffhausen/)
+- WordPress Meetup Schaffhausen [on Meetup.com](https://www.meetup.com/WordPress-Schaffhausen/)
 
 ### Sion
 
 - WordPress Meetup Sion [on Meetup.com](https://www.meetup.com/Sion-WordPress-Meetup/)
+
+### St.Gallen
+
+- WordPress Meetup St. Gallen [on Meetup.com](https://www.meetup.com/wordpress-st-gallen/)
 
 ### Ticino
 
