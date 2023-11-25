@@ -28,6 +28,10 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 - WordPress Meetup Lausanne [on Meetup.com](https://www.meetup.com/Lausanne-WordPress-Meetup/)
 
+### Landquart
+
+- Landquart WordPress Meetup Group [on Meetup.com](https://www.meetup.com/landquart-wordpress-meetup-group/)
+
 ### Luzern
 
 - WordPress Meetup Luzern [on Meetup.com](https://www.meetup.com/WordPress-Meetup-Luzern-by-webkinder-ch/)
