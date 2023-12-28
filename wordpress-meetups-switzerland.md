@@ -8,6 +8,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 - WordPress Meetup Baden [on Meetup.com](https://www.meetup.com/WordPress-Baden/)
 
+### Basel
+- WordPress Meetup Basel [on Meetup.com](https://www.meetup.com/basel-wordpress-meetup-group/)
+  
 ### Bern
 
 - WordPress Meetup Bern [on Meetup.com](https://www.meetup.com/de-DE/WordPress-Bern/) / [website](https://wpbern.ch/)
@@ -18,7 +21,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ### Fribourg
 
-- WebDev Meetup Fribourg [on Meetup.com](https://www.meetup.com/Fribourg-WordPress-Meetup/)
+- Fribourg WordPress Meetup [on Meetup.com](https://www.meetup.com/Fribourg-WordPress-Meetup/)
 
 ### Geneva
 
