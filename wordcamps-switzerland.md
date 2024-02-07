@@ -4,11 +4,13 @@
 
 ## Switzerland 2023
 
-- [Website](https://switzerland.wordcamp.org/2023/)- [Gallery](https://photos.app.goo.gl/paz1DBH4DV4Yc7n48)
+- [Website](https://switzerland.wordcamp.org/2023/)
+- [Gallery](https://photos.app.goo.gl/paz1DBH4DV4Yc7n48)
 
 ## Genève 2022
 
-- [Website](https://geneve.wordcamp.org/2022/)- [Gallery](https://photos.google.com/share/AF1QipMYSSFM8wyLzV-BGqs3Wy4pSHJ-AWGwCseicahGfm0KbLz9qpU-Hxrwh9I7BJoVrw?key=RG1VSzZKaEJOQ3pqd3d6VFJvNDRld09mVHpSZXNR)
+- [Website](https://geneve.wordcamp.org/2022/)
+- [Gallery](https://photos.google.com/share/AF1QipMYSSFM8wyLzV-BGqs3Wy4pSHJ-AWGwCseicahGfm0KbLz9qpU-Hxrwh9I7BJoVrw?key=RG1VSzZKaEJOQ3pqd3d6VFJvNDRld09mVHpSZXNR)
 
 ## Genève 2020 - Postponed to 2022 due to COVID-19
 
