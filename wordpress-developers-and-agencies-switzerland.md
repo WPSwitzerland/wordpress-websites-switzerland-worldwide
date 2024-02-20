@@ -6,7 +6,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Agencies
 - [Blueforce Internet Solutions](https://www.blueforce.ch/) - [@blueforce1](https://twitter.com/blueforce1)
-- [BlueGlass | Team Farner](https://www.blueglass.ch/)
+- [BlueGlass | Team Farner](https://www.blueglass.ch/) - [@blueglasszrh](https://twitter.com/blueglasszrh)
 - [CLUS Werbeagentur](https://clus.ch/) - [@clus_ch](https://twitter.com/clus_ch)
 - [Comotive](https://www.comotive.ch/)
 - [cubetech](https://www.cubetech.ch/) - [@cubetech_ch](https://twitter.com/cubetech_ch)
