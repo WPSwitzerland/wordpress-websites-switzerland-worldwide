@@ -17,7 +17,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Metoki GmbH](https://www.metoki.ch/) – [@metoki_digital](https://twitter.com/metoki_digital)
 - [MIND](https://www.mind.ch/)
 - [Miux AG](http://miux.ch/)
-- [MONTAG digital](https://www.montag.ch/)
+- [MONTAG Webstudios](https://www.montag.ch/)
 - [OneByte AG](https://www.onebyte.ch)
 - [Openstream](https://www.openstream.ch/) - [@openstream](https://twitter.com/openstream)
 - [PATDEF-webdesign](https://patdef-webdesign.ch) - [@PatriceDefago](https://twitter.com/PatriceDefago)
