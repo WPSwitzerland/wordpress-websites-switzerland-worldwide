@@ -232,6 +232,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Müller & Müller Immobilien](http://www.mm-immob.ch/)
 - [Peach Property Group](http://www.peachproperty.com/)
 - [Peninsula Beach House microsite](http://beach-house.ch/)
+- [Raiffeisen Immo](https://immo.raiffeisen.ch/)
 - [SBB Immobilien](http://www.sbbimmo.ch/) (private site)
 - [Walde & Partner](https://www.walde.ch/)
 - [Wollerau Park microsite](http://www.wolleraupark.ch/)
