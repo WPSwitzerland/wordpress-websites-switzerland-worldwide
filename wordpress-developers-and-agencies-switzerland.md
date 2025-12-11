@@ -48,7 +48,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Nico Martin](http://nico.dev/) - [@nic_o_martin](https://twitter.com/nic_o_martin)
 - [Nina Regli](https://ninaregli.com) - [@NinaRegli](https://twitter.com/ninaregli)
 - [Pascal Birchler](https://pascalbirchler.com/) - [@swissspidy](https://twitter.com/swissspidy)
-- [Patrice Défago](https://patdef-webdesign.ch) - [@PatriceDefago](https://twitter.com/PatriceDefago)
+- [Patrice Défago](https://patricedefago.com) - [@PatriceDefago](https://twitter.com/PatriceDefago)
 - [Paul Ratcliffe](https://www.refinedpractice.com/) - [@Meester_Paul](https://twitter.com/Meester_Paul)
 - [Roger Burkhard](http://rogerburkhard.com/de/)
 - [Sandro Würmli](https://sandro.live) - [@sandrowuermli](https://www.twitter.com/sandrowuermli)
