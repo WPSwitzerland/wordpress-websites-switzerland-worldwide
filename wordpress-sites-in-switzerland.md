@@ -33,9 +33,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Coaching
 - [Amir Vitis](http://www.amirvitis.ch/)
-- [Avantos](http://www.avantos.ch/)
-- [Grass Beratung](https://grassberatung.ch/)
+- [Avantos](https://avantos.ch/)
 - [FineSolutions](https://finesolutions.ch/)
+- [Grass Beratung](https://grassberatung.ch/)
 
 ## Construction
 - [Suicorr](https://suicorr.com/)
@@ -50,8 +50,8 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Technische Berufsschule Zürich](https://tbz.ch/)
 
 ## Engineering
-- [Baulink](https://www.baulink.ch/)
 - [Balz Engineering AG](https://www.balzbau.ch)
+- [Baulink](https://www.baulink.ch/)
 - [Nay Engineering](https://nay.ch)
 
 ## Entertainment
@@ -68,9 +68,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 ## Finance
 - [Tilbago](https://www.tilbago.ch/)
 
-## Government
-- [Jumelage](https://jumelage.net/)
-
 ## Food & Drinks
 - [Candrian Catering](https://www.candrian.com/)
 - [Lipp Destillerie](https://lipp-destillerie.ch/)
@@ -84,6 +81,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [CONTACT Arbeit](http://www.contact-arbeit.ch/)
 - [CONTACT - Stiftung für Suchthilfe](http://www.contact-suchthilfe.ch/)
 - [Schtifti Foundation](http://schtifti.ch/)
+
+## Government
+- [Jumelage](https://jumelage.net/)
 
 ## Health
 - [Espace Chirurgie](https://espace-chirurgie.ch/)
@@ -146,7 +146,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Public
 - [ON-X](http://www.on-x.ch/)
-- [Ortsplanungsrevision Thun](http://www.ortsplanungsrevisionthun.ch/)
 - [Pro Helvetia - Swiss Arts Council](https://prohelvetia.ch/en/)
 - [SBB Cargo Blog](http://blog.sbbcargo.com/)
 
@@ -183,15 +182,18 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Kloten-Dietlikon Jets](https://jets.ch)
 - [Mobilesport](http://www.mobilesport.ch/)
 - [Swiss Nordic Center](https://swiss-nordic-center.ch/)
-- [Swiss Paralympic](http://www.swissparalympic.ch/)
 - [Swiss Cycling](https://www.swiss-cycling.ch/)
+- [Swiss Paralympic](http://www.swissparalympic.ch/)
 
 ## Technology
 - [Technische Gesellschaft Zürich](https://www.tgz-net.ch/)
 
+## Toys
+- [Naef Spiele](https://www.naefspiele.ch/)
+
 ## Travel and tourism
 - [Hotel Fusio](https://hotelfusio.ch/)
-- [Hotelplan Blog](http://blog.hotelplan.ch/)
+- [Hotelplan Blog](https://blog.hotelplan.ch/)
 - [Hotel Posthuis, Melchsee-Frutt](https://www.posthuis.ch/)
 - [Hotel Watt](https://hotelwatt.ch/)
 - [Mutten](http://www.mutten.ch/)
@@ -199,9 +201,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Säntispark](https://saentispark-freizeit.ch/)
 - [The Dolder Grand](https://www.thedoldergrand.com/)
 - [Turrabuel](https://turrabuel.ch)
-
-## Toys
-- [Naef Spiele](https://www.naefspiele.ch/)
 
 ## Usability
 - [soultank](http://soultank.ch/)

@@ -30,7 +30,7 @@
 
 - [Website](https://bern.wordcamp.org/2017/)
 - [Photos by Patricia BT](https://photos.google.com/share/AF1QipMlhH719pBs-BldEDPDSjwe3n5MdQ5roRmhpUcgxXXs6D-Yu7vhheWQ0GUqJo4TUQ?key=eFVjZWQ0amxmeVFEZENwdlFxRUdJUVVqaUhJeTF3)
-- [Photoy by Manuel Schmalstieg](https://www.flickr.com/photos/kinetoskop/albums/72157688941245775)
+- [Photos by Manuel Schmalstieg](https://www.flickr.com/photos/kinetoskop/albums/72157688941245775)
 
 ## Geneva 2016
 
