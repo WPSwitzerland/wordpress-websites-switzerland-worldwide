@@ -11,20 +11,20 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Russell Brand](https://www.russellbrand.com/)
 
 ## Events
-- [TED Blog](http://blog.ted.com/) (wordpress.com VIP)
+- [TED Blog](https://blog.ted.com/) (wordpress.com VIP)
 
 ## Foundations
-- [Jacobs Foundation](http://jacobsfoundation.org/)
+- [Jacobs Foundation](https://jacobsfoundation.org/)
 
 ## Magazine
-- [Aestetics of Joy](http://www.aestheticsofjoy.com/)
+- [Aestetics of Joy](https://www.aestheticsofjoy.com/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 
 ## Media / News
 - [The Sun](https://www.thesun.co.uk/) (Leading UK tabloid newspaper)
 
 ## Photography
-- [Nick Turpin](http://nickturpin.com/)
+- [Nick Turpin](https://nickturpin.com/)
 
 ## Tech
-- [TechCrunch](http://techcrunch.com/) (wordpress.com VIP)
+- [TechCrunch](https://techcrunch.com/) (wordpress.com VIP)
