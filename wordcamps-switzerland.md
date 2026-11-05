@@ -2,7 +2,17 @@
 
 <!-- [WordCamps](https://central.wordcamp.org/)—large meetups—have taken place in Switzerland since [2014](https://switzerland.wordcamp.org/2014/). -->
 
-## Switzerland 2023
+## Murten 2027
+
+WordCamp Switzerland 2027 takes place on 5th and 6th March at the Centre Loewenberg, Murten.
+
+- [Website](https://switzerland.wordcamp.org/2027/)
+
+## Community Day 2024
+
+- [Website](https://events.wordpress.org/switzerland/2024/community-day/)
+
+## Murten 2023
 
 - [Website](https://switzerland.wordcamp.org/2023/)
 - [Gallery](https://photos.app.goo.gl/paz1DBH4DV4Yc7n48)

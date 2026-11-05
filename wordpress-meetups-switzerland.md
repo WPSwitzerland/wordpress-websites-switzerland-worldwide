@@ -13,7 +13,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
   
 ### Bern
 
-- WordPress Meetup Bern [on Meetup.com](https://www.meetup.com/de-DE/WordPress-Bern/) / [website](https://wpbern.ch/)
+- WordPress Meetup Bern [on Meetup.com](https://www.meetup.com/WordPress-Bern/) / [website](https://www.wpbern.ch/)
 
 ### Chur
 
@@ -57,10 +57,10 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ### Ticino
 
-- WordPress Meetup Ticino mobile [on Meetup.com](https://www.meetup.com/wp-meetup-ticino-mobile/)
+- WP Meetup Ticino (online) [on Meetup.com](https://www.meetup.com/wp-meetup-ticino-mobile/)
 - WordPress Meetup Lugano [on Meetup.com](https://www.meetup.com/Lugano-WordPress-Meetup/)
 
 ### Zürich
 
-- WordPress Meetup Zürich [on Meetup.com](https://www.meetup.com/WordPress-Zurich/) / [website](https://wpzurich.ch/)
+- WordPress Meetup Zürich [on Meetup.com](https://www.meetup.com/wordpress-zurich/) / [website](https://www.wpzurich.ch/)
 - Zürich WooCommerce Meetup [on Meetup.com](https://www.meetup.com/Zurich-WooCommerce-Meetup/)
