@@ -9,7 +9,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [BlueGlass | Team Farner](https://www.blueglass.ch/) - [@blueglasszrh](https://x.com/blueglasszrh)
 - [CLUS Werbeagentur](https://clus.ch/)
 - [Comotive](https://www.comotive.ch/)
-- [cubetech](https://www.cubetech.ch/)
 - [Dream Production](https://dreamproduction.com/) - [@dreamproduction](https://x.com/dreamproduction)
 - [flake GmbH](https://flake.ch/)
 - [Guave Interactive](https://www.guaveinteractive.ch/) - [@guave_ia](https://x.com/guave_ia)
@@ -25,6 +24,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Refined Practice](https://www.refinedpractice.com/) - [@RefinedPractice](https://x.com/RefinedPractice)
 - [required](https://required.com/) - [@wearerequired](https://x.com/wearerequired)
 - [Resort Studio](https://resortstudio.ch/digital/)
+- [Rocketsky GmbH](https://www.rocketsky.ch/) - [@rktsky](https://github.com/rktsky/)
 - [Say Hello](https://sayhello.ch)
 - [someco](https://someco.ch)
 - [WebKinder](https://www.webkinder.ch/)
@@ -34,7 +34,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Xeit](https://www.xeit.ch/)
 
 ## Developers
-- [Christoph S. Ackermann](https://www.cubetech.ch/cubetech/team/christoph-s-ackermann/) - [@acki_](https://x.com/acki_)
+- [Christoph Ackermann](https://www.rocketsky.ch/ueber-rocketsky/) - [@acki](https://github.com/acki/)
 - [Claudio Rimann](https://claudiorimann.ch/) - [@pandulu](https://x.com/pandulu)
 - [Claudio Schwarz](https://www.claudioschwarz.com/) - [@purzlbaum](https://x.com/purzlbaum)
 - [Kevin Walker](https://kevinwalker.ch/)
