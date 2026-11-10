@@ -32,12 +32,16 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## Coaching
 - [Amir Vitis](https://www.amirvitis.ch/)
-- [Avantos](https://avantos.ch/)
 - [FineSolutions](https://finesolutions.ch/)
+- [Francesca Schori](https://www.francescaschori.ch/)
 - [Grass Beratung](https://grassberatung.ch/)
+
 
 ## Construction
 - [Suicorr](https://suicorr.com/)
+
+## Consulting
+- [Hirzel.Neef.Schmid.Konsulenten](https://www.konsulenten.ch/)
 
 ## Drugs
 - [rave it safe](https://www.raveitsafe.ch/)
@@ -94,6 +98,9 @@ Please submit changes and additions to this repository via Patch or Pull Request
 
 ## IT / Services
 - [Avantos](https://avantos.ch/)
+- [Hostbliss](https://www.hostbliss.ch/)
+- [Skye](https://skye.rocketsky.ch/)
+- [Speo](https://www.speo.ch)
 - [WP Smart Protect](https://wp-smart-protect.ch/)
 
 ## Jewelry
@@ -122,9 +129,10 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Tageswoche](https://tageswoche.ch/) ([Report about the change to WordPress](https://tageswoche.ch/form/editorial/das-ist-die-neue-tageswoche/))
 
 ## Mobility
-- [Garage Hofmann](https://www.garage-hofmann.ch/)
+- [Garage Hofmann](https://www.hofmann.swiss/)
 - [Moving Media Basel](https://mm-basel.ch/)
 - [vbzonline.ch](https://vbzonline.ch/)
+- [Volksgarage](https://www.volksgarage.ch/)
 
 ## NGO
 - [Frauenverein Nidau](https://frauenverein-nidau.ch/)
@@ -169,7 +177,6 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Sabine Egli](https://sabineegli.ch/)
 
 ## Society
-- [Handels- und Industrieverein Bern](https://www.wirtschaftstermine.ch/)
 - [SIEA](https://www.siea.ch/)
 - [USKA](https://www.uska.ch/)
 
